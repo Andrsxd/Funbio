@@ -9,6 +9,7 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 
 La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_
 **Indice**
+[TOCM]
 [TOC]
 # Analisis del caso
 # Estado del arte científico
