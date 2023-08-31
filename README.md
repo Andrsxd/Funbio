@@ -14,6 +14,7 @@ La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_
 # Estado del arte científico
 
 | Problemática 1|
+| ------- | ----------- | ------ |
 | Patente | Descripción | Imagen |
 | ------- | ----------- | ------ |
 | Visualizador de venas compuesta: Modelo V800F | Este dispositivo está montado con un soporte y utiliza técnología de infrarrojos. Asimismo, son muy útiles para encontrar las venas en pacientes obesos o venas pequeñas/profundas y así evitar el dolor por venopunción- | ![](https://equiposmedicos.net.co/wp-content/uploads/2022/12/proyector_de_venas2_Mesa-de-trabajo-1-scaled.jpg) |
