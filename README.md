@@ -15,9 +15,9 @@ La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_
 
 | Patente | Descripción | Imagen |
 | ------- | ----------- | ------ |
-| Visualizador de venas: Máquina | aaaaaaaaaaa | ![](https://equiposmedicos.net.co/wp-content/uploads/2022/12/proyector_de_venas2_Mesa-de-trabajo-1-scaled.jpg) |
-| Visualizador de venas para dos personas | aaaaaaaaaaa | ![](https://quinsa.com.mx/wp-content/uploads/2022/05/accuveinav500.jpg) |
-| Linternas frontales | aaaaaaaaaaa | ![](https://4nomadsperu.com/wp-content/uploads/2022/06/HM50RV20_1.png) |
+| Visualizador de venas compuesta: Modelo V800F | Este dispositivo está montado con un soporte y utiliza técnología de infrarrojos. Asimismo, son muy útiles para encontrar las venas en pacientes obesos o venas pequeñas/profundas y así evitar el dolor por venopunción- | ![](https://equiposmedicos.net.co/wp-content/uploads/2022/12/proyector_de_venas2_Mesa-de-trabajo-1-scaled.jpg) |
+| Visualizador de venas para dos personas: ACCUVEIN AV500 | Es un dispositivo de fácil aprendizaje y manejo que permite punciones más precisas y rápidas para ubicar y evitar válvulas y bifurcaciones en el paciente. No es necesario esterilizarlo después de cada uso ya que no tiene contacto con el paciente. | ![](https://quinsa.com.mx/wp-content/uploads/2022/05/accuveinav500.jpg) |
+| Linterna frontal: Fenix HM50R V2.0 | Es una lnterna que posee un faro pequeño brillante con un peso inferior a 3 onzas lo que permite el movimiento cómodo de su portador. Construido con material duradero y clasificado con impermeabilidad IP68, lo que permite soportar muchos entornos agresivos y de movimiento. | ![](https://4nomadsperu.com/wp-content/uploads/2022/06/HM50RV20_1.png) |
 
 # Clínica de problemáticas en salud
 
