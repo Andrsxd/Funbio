@@ -20,7 +20,7 @@ La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_
 | QardioArm | Dispositivo para medir la presión arterial y frecuencia cardiaca. | | ![](https://img.medicalexpo.es/images_me/photo-mg/93789-8338905.jpg) |
 | Oximetro | Dispositivo para medir la saturación de oxígeno. | | ![](https://http2.mlstatic.com/D_NQ_NP_730853-MLC51850776140_102022-O.webp) |
 | Termómetro digital | Dispositivo para medir la temperatura. |  | ![](https://efmo.com/content/images/thumbs/0001192_termometro-digital-infrarrojo.jpeg) |
-| Vesta | Sistema de alarmas médicas | | ![]() |
+
 
 # Analisis del caso
 
