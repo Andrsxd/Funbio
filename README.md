@@ -9,12 +9,19 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 
 La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.
 
-####**Contenido**
+####Contenido
 
  [TOC]
 
-# Analisis del caso:
+# Analisis del caso
 
-# Estado del arte científico:
+# Estado del arte científico
 
-# Clínica de Problemáticas en Salud:
+| Patente | Descripción | Imagen |
+| ------- | ----------- | ------ |
+| Visualizador de venas | aaaaaaaaaaa | ------ |
+
+
+# Clínica de problemáticas en salud
+
+# Bibliografía
