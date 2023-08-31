@@ -9,7 +9,7 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 
 La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.
 
-# Analisis del caso
+# Clínica de problemáticas en salud
 
 # Estado del arte científico
 
@@ -23,7 +23,7 @@ La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_
 | Termómetro digital | Dispositivo para medir la temperatura. |  | ![](https://efmo.com/content/images/thumbs/0001192_termometro-digital-infrarrojo.jpeg) |
 | Vesta | Sistema de alarmas médicas | | ![]() |
 
-# Clínica de problemáticas en salud
+# Analisis del caso
 
 # Bibliografía
 -
