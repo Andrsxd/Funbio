@@ -15,9 +15,9 @@ La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_
 
 | Patente | Descripción | Imagen |
 | ------- | ----------- | ------ |
-| Visualizador de venas: Máquina | aaaaaaaaaaa | ![]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6xm1fYGIL8HX_W9CQGrGCFfLfz_FERhCag&usqp=CAU |
-| Visualizador de venas para dos personas | aaaaaaaaaaa | ![]https://quinsa.com.mx/wp-content/uploads/2022/05/accuveinav500.jpg |
-
+| Visualizador de venas: Máquina | aaaaaaaaaaa | ![](https://equiposmedicos.net.co/wp-content/uploads/2022/12/proyector_de_venas2_Mesa-de-trabajo-1-scaled.jpg) |
+| Visualizador de venas para dos personas | aaaaaaaaaaa | ![](https://quinsa.com.mx/wp-content/uploads/2022/05/accuveinav500.jpg) |
+| Linternas frontales | aaaaaaaaaaa | ![](https://4nomadsperu.com/wp-content/uploads/2022/06/HM50RV20_1.png) |
 
 # Clínica de problemáticas en salud
 
