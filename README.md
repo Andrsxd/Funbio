@@ -11,8 +11,6 @@ La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_
 
 ####Contenido
 
- [TOC]
-
 # Analisis del caso
 
 # Estado del arte científico
