@@ -9,22 +9,24 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 
 La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.
 
-# Clínica de problemáticas en salud
+# Analisis del caso
+La hipertensión pulmonar (HP) es un trastorno fisiopatológico que afecta los vasos sanguíneos de los pulmones ya que proviene de un aumento de la presión en la arteria pulmonar media en reposo, por ende el corazón debe hacer un esfuerzo mayor para bombear sangre a través de los pulmones.Con el tiempo, el esfuerzo adicional hace que el músculo cardíaco se debilite y falle. Cabe resaltar que la HP está definida como una presión arterial pulmonar media mayor a 25 mmHg en reposo y mayor a 30 mmHg durante ejercicio. [1] 
+La HP constituye un importante problema de salud mundial, se estima una prevalencia de la HP alrededor del 1% en la población mundial que aumenta hasta un 10% en adultos mayores de 65 años [2]
 
 # Estado del arte científico
 
 | Patente | Descripción | Desventajas | Imagen |
 | ------- | ----------- | ----------- | ------ |
-| Visualizador de venas compuesta: Modelo V800F | Este dispositivo está montado con un soporte y utiliza técnología de infrarrojos. Asimismo, son muy útiles para encontrar las venas en pacientes obesos o venas pequeñas/profundas y así evitar el dolor por venopunción- | | ![](https://equiposmedicos.net.co/wp-content/uploads/2022/12/proyector_de_venas2_Mesa-de-trabajo-1-scaled.jpg) |
-| Visualizador de venas para dos personas: ACCUVEIN AV500 | Es un dispositivo de fácil aprendizaje y manejo que permite punciones más precisas y rápidas para ubicar y evitar válvulas y bifurcaciones en el paciente. No es necesario esterilizarlo después de cada uso ya que no tiene contacto con el paciente. | | ![](https://quinsa.com.mx/wp-content/uploads/2022/05/accuveinav500.jpg) |
-| QardioArm | Dispositivo para medir la presión arterial y frecuencia cardiaca. | | ![](https://img.medicalexpo.es/images_me/photo-mg/93789-8338905.jpg) |
-| Oximetro | Dispositivo para medir la saturación de oxígeno. | | ![](https://http2.mlstatic.com/D_NQ_NP_730853-MLC51850776140_102022-O.webp) |
-| Termómetro digital | Dispositivo para medir la temperatura. |  | ![](https://efmo.com/content/images/thumbs/0001192_termometro-digital-infrarrojo.jpeg) |
+| Nordic Semiconductor nRF5340 Development kit |  | | ![]() |
+| Visualizador de venas para dos personas: ACCUVEIN AV500 |  | | ![]() |
+| QardioArm | Dispositivo para medir la presión arterial y frecuencia cardiaca. | | ![]() |
+| Oximetro | Dispositivo para medir la saturación de oxígeno. | | ![]() |
+| Termómetro digital | Dispositivo para medir la temperatura. |  | ![]() |
 
 
-# Analisis del caso
+# Clínica de problemáticas en salud
 
 # Bibliografía
--
--
--
+1.
+2.
+3.
