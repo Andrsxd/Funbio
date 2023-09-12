@@ -15,8 +15,12 @@ En la actualidad el monitoreo de calidad se ha transformado en una disyuntiva, d
 </p>
 
 # Instrumento de medición
-
-
+<p>Al momento de realizar un cultivo dentro de estos dispositivos, siempre se regulan ciertos parámetros dentro de la cámara, entre ellos se consideran la temperatura; concentración de dióxido de carbono (CO2) y/o concentración de oxígeno (O2).</p>
+Los parámetros mencionados son llamados comúnmente como propiedades fisicoquímicas:
++ **Temperatura**: Mayormente es preferente tenerle en un valor fijo como 37 °C, aunque también se puede oscilar en rangos     de +/- 0,5 °C para tener tasas de crecimientos óptimas, tomando en cuenta la caracterización del huésped.
++ **Dióxido de carbono (CO2)**: Este es capaz de ser medio en partículas por millón (ppm) o porcentaje (%). Usualmente se     trabaja con un rango de 2 a 10% de CO2 pero se aconseja estar entre 5 a 6%. 
++ **Oxígeno (O2)**:  Para lograr trabajar con oxígeno en concentraciones bajas, es decir menos de 21 %, dentro de la cámara   de la incubadora se utiliza nitrógeno gaseoso al 100 % y para trabajar con cultivos que requieren más del 21% de oxígeno    se utiliza oxígeno gaseoso al 100%.
+<p>Estas propiedades fisicoquímicas son las que actúan como terceros para variar otros aspectos dependientes que el cultivo necesita para su desarrollo óptimo. Por ejemplo, el pH y la osmolaridad dependen parcialmente de la concentración de CO2 para mantener la estabilidad.</p>
 
 # Función de las partes de la incubadora
 
