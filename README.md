@@ -18,21 +18,31 @@ En la actualidad el monitoreo de calidad se ha transformado en una disyuntiva, d
 
 
 
-# Función de las parte de la incubadora
+# Función de las partes de la incubadora
 
 Las diferentes incubadoras que existen en el mercado pueden variar dependiendo de los distintas características extras que le agreguen, pero fundamentalmente están comprendidas por los siguientes componentes:
 
--**Cámara de incubación** : En esta parte es donde se colocan las muestras a analizar, aquí se realiza el mantenimiento de la temperatura y húmedad con el fin de lograr el crecimiento requerido de cada muestra.
--**Sistema de calentamiento** : Compuesto por el termostato y control de temperatura que son fundamentales para generar calor y mantener la temperatura para que se logre el crecimiento, esto se logra con la ayuda de resistencias eléctricas.
--**Sensor de temperatura** : Encargado de medir la temperatura dentro de la cámara y envía las señal hacia la cámara de incubación.
--**Sistema de control de temperatura** : Regulación de la temperatura de modo que se ajusta la energía al sistema de calefacción.
--**Sistema de control de humedad** : Controla los niveles de humedad relativa en la cámara.
--**Sensor de humedad** : Se mide la humedad relativa dentro de la cámara para posteriormente enviar la información hacia el sistema de control de humedad. Se trabaja mediante rangos.
--**Sistema de circulación de aire** : Es capaz de nivelar la proporción entre aire caliente y húmedo con el fin de que las muestras estén bajo condiciones adecuadas.
--**Luz Interior** : Es la luz que se encuentra dentro de la cámara para obtener una mejor visión.
--**Puerta de vidrio** : Algunos están compuestos por este material en la puerta para mejorar la visión de las muestras.
--**Puerta de acceso** : Acceso al interior de la cámara para poner y retirar las muestras.
--**Controlador digital** : Pantalla en la cual se puede ajustar los parámetros antes mencionados como temperatura, humedad y hasta tiempo.</p><p> **Alarma**: Presentes en algunos equipos ya que emite una alerta en caso de un desnivel en algunos de los parámetros que se estableció.
++**Cámara de incubación** : En esta parte es donde se colocan las muestras a analizar, aquí se realiza el mantenimiento de la temperatura y húmedad con el fin de lograr el crecimiento requerido de cada muestra.
+
++**Sistema de calentamiento** : Compuesto por el termostato y control de temperatura que son fundamentales para generar calor y mantener la temperatura para que se logre el crecimiento, esto se logra con la ayuda de resistencias eléctricas.
+
++**Sensor de temperatura** : Encargado de medir la temperatura dentro de la cámara y envía las señal hacia la cámara de incubación.
+
++**Sistema de control de temperatura** : Regulación de la temperatura de modo que se ajusta la energía al sistema de calefacción.
+
++**Sistema de control de humedad** : Controla los niveles de humedad relativa en la cámara.
+
++**Sensor de humedad** : Se mide la humedad relativa dentro de la cámara para posteriormente enviar la información hacia el sistema de control de humedad. Se trabaja mediante rangos.
+
++**Sistema de circulación de aire** : Es capaz de nivelar la proporción entre aire caliente y húmedo con el fin de que las muestras estén bajo condiciones adecuadas.
+
++**Luz Interior** : Es la luz que se encuentra dentro de la cámara para obtener una mejor visión.
+
++**Puerta de vidrio** : Algunos están compuestos por este material en la puerta para mejorar la visión de las muestras.
+
++**Puerta de acceso** : Acceso al interior de la cámara para poner y retirar las muestras.
+
++**Controlador digital** : Pantalla en la cual se puede ajustar los parámetros antes mencionados como temperatura, humedad y hasta tiempo.</p><p> **Alarma**: Presentes en algunos equipos ya que emite una alerta en caso de un desnivel en algunos de los parámetros que se estableció.
 
 
 # Estado del Arte
