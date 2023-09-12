@@ -153,11 +153,12 @@ En este módulo, estarán presentes los guantes herméticos para poder manipular
 
 
 # Bibliografía
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
+2. https://www.calameo.com/read/00646313042a0b3f65598
+3. http://repositorio2.udelas.ac.pa/bitstream/handle/123456789/257/deiethmariana.pdf?sequence=1&isAllowed=y
+4. http://38.43.142.130/handle/20.500.12672/182
+5. https://intekgroup.com.co/tipos-de-incubadoras-de-laboratorio/
+6. https://articulo.mercadolibre.com.pe/MPE-651210394-incubadora-co2-de-laboratorio-de-50-l-_JM#position=1&search_layout=stack&type=item&tracking_id=a18b7bdb-a5b7-43a1-a7f4-4b25998fd8de
+7. https://esp.labbox.com/producto/incubadora-con-agitacion-lbx-s50l/
+8. https://blamis.com.co/incubadora-de-conveccion-forzada-single-display
+9. 
