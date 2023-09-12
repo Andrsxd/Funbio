@@ -7,7 +7,7 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 4. Aniball Harnaldo Panta Navarro 
 5. Ismael Edmundo Navarro Sanchez
 
-La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.
+<p>La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.</p>
 # Problemática 
 
 
@@ -18,18 +18,18 @@ La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_
 
 
 # Estado del Arte
-## Contexto comercial
+## -Contexto comercial
 ### Equipos de mercado:
 <p>Para el estudio de equipos del mercado hemos considerado 3 tipos de incubadoras.</p>
 
 | Equipo | Descripción | Imagen |
 | ------- | ----------- | ------ |
-| Incubadora de laboratorio de CO2 | Utilizado en laboratorios microbiológicos por su versatilidad. Posee un control de temperatura, de la cantidad de CO2 y la humedad relativa. Puede cultivar microorganismos más comunes que pueden vivir a 37 °C con 5% de CO2 y con una humedad relativa de 85-90%. Los campos en donde se utiliza son: ingeniería de tejidos, fertilización in vitro, investigación del cáncer, células madres, medicina regenerativa e investigación de células de mamíferos.  Precio mercado: S/ 17 000 (Incubadora CO2 de laboratorio de 50 L) | ![]([https://www.minitube.com/userdata/dcshop/images/normal/14175-0056_Incubator.jpg](https://img.waimaoniu.net/2587/2587-202110181520597157.jpg)) |
+| Incubadora de laboratorio de CO2 | Utilizado en laboratorios microbiológicos por su versatilidad. Posee un control de temperatura, de la cantidad de CO2 y la humedad relativa. Puede cultivar microorganismos más comunes que pueden vivir a 37 °C con 5% de CO2 y con una humedad relativa de 85-90%. Los campos en donde se utiliza son: ingeniería de tejidos, fertilización in vitro, investigación del cáncer, células madres, medicina regenerativa e investigación de células de mamíferos.  Precio mercado: S/ 17 000 (Incubadora CO2 de laboratorio de 50 L) | ![](https://img.medicalexpo.es/images_me/photo-m2/84845-15397734.jpg) |
 | Incubadoras de laboratorio de agitación | Se utilizan para el cultivo de células, aireación de células y estudios de solubilidad. Permiten mantener una temperatura constante, lo cual evita la revisión continua de este parámetro. Además, controlan la velocidad de agitación para acelerar el crecimiento celular aumentando la productividad y acortando el tiempo de estimulación. <p>Precio mercado: S/ 10 467.65 (Incubadora con agitación, INC-S: CTSI-050-001 de 50L)</p> | ![](https://www.cromtek.cl/wp-content/uploads/2019/04/shakers-Incubadores-495x400.jpg) |
 | Incubadoras de laboratorio de convección forzada | Posee un rango amplio de temperatura y es ideal para los cultivos de ambientes fríos. A través de un ventilador permite que el aire circule por toda la cámara de forma constante e impide la variación de temperatura no deseada. Precio mercado: S/ 49 138 807.29 (Incubadora de convección forzada Single Display 53-108L) | ![](https://equipar.com.mx/wp-content/uploads/2020/04/MEMMERT-INCUBADORAS.png) |
 
 
-### Patentes de utilidad o invención
+### -Patentes de utilidad o invención:
 
 | Nombre_de_la_patente (código-de-la-patente) - País - Creador | Descripción | Imagen |
 | ------- | ----------- | ------ |
