@@ -75,17 +75,26 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 ### Conceptos
 
 ## Módulos
-### Módulo de aislamiento:
-#### Componentes
+1. ### Módulo de aislamiento:
+  #### Componentes:
 
-### Módulo de visualización de muestra:
-#### Componentes:
+2. ### Módulo de visualización de muestra:
+  #### Componentes:
 
-### Módulo de manipulación de muestra:
-#### Componentes:
+3. ### Módulo de manipulación de muestra:
+  #### Componentes:
 
-### Módulo de movilización de la muestra:
-#### Componentes:
+4. ### Módulo de movilización de la muestra:
+  #### Componentes:
+
+5. ### Módulo de ventilación:
+   #### Componentes:
+   
+6. ### Módulo de temperatura:
+   #### Componentes:
+
+7. ### Módulo de seguridad ante accidentes:
+   #### Componentes:
 
 ## Características 
 ### Funcionales:
