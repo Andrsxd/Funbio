@@ -8,8 +8,11 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 5. Ismael Edmundo Navarro Sanchez
 
 <p>La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.</p>
-# Problemática 
 
+# Problemática 
+<p>La incubadora de laboratorio es una herramienta vital que se utiliza para cultivar y  mantener cultivos microbiológicos o cultivos celulares. La incubadora mantiene una temperatura y humedad óptima, garantizando también otras condiciones tales como el dióxido de carbono (CO2) y el oxígeno (O2) presente en el interior para poder realizar los análisis correspondientes.</p> <p>Las incubadoras de laboratorio se usan en las aplicaciones de biología (cultivos celulares y de tejidos), estudios farmacéuticos y hematológicos, para estudios bioquímicos, también se utiliza para estudios animales, estudios de solubilidad y de fermentación como también para cultivos de bacterias. El equipo proporciona un entorno controlado y libre de contaminantes para un trabajo seguro y fiable con los cultivos, este utiliza un sistema avanzado de alta tecnología para realizar el proceso de incubación, por lo que debe ser capaz de controlar la humedad y la luz, pues hay ciertos tipos de cultivos que necesitan una temperatura y luz precisa.</p> <p>Estos equipos son utilizados con fines en el desarrollo de curas y también en la identificación de agentes patógenos, por lo cual, es importante regular los factores fundamentales para mantener y crecer los cultivos celulares o microbiológicos.
+En la actualidad el monitoreo de calidad se ha transformado en una disyuntiva, debido a esto se busca lograr un tipo de incubación estable y fiable para los distintos cultivos para así asegurar los resultados.
+</p>
 
 # Instrumento de medición
 
@@ -18,8 +21,8 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 
 
 # Estado del Arte
-## -Contexto comercial
-### Equipos de mercado:
+## Contexto comercial
+### -Equipos de mercado:
 <p>Para el estudio de equipos del mercado hemos considerado 3 tipos de incubadoras.</p>
 
 | Equipo | Descripción | Imagen |
