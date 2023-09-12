@@ -80,16 +80,41 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 # Propuesta de solución
 ## Estrategias
 
+-Disminuir la variación de temperatura que puede sufrir la muestra para no alterar su comportamiento dentro de una incubadora.
+-Optimizar la visualización de la muestra dentro de una incubadora para evitar sacarla.
+-No tener contacto directo con las muestras para evitar una posible contaminación al personal de laboratorio.
+-Alertar al personal de laboratorio cuando exista una fuga de aire en la incubadora.
+-Equipar al personal de laboratorio para evitar que se puedan contaminar con las muestras o patógenos incubados.
+-Trabajar dentro de una cámara hermética y a la hora del ingreso o salida del personal de laboratorio pasar por una zona de desinfección de cualquier patógeno o sustancia peligrosa.
+
 ### Conceptos
+-Una incubadora que sea capaz de cumplir las funciones de una incubadora normal y capaz de medir la concentración (cantidad) de las muestras sin necesidad de abrirlo (contaminado)
+-Que exista una conexión directa con la máquina de medida y con la incubadora. Sin necesidad de que se contamine. Para que el personal ya no se exponga a la muestra, por lo tanto evitar futuras contaminaciones al organismo humano.
+-Un transportador (conducto) que esté rodeado por una estructura cilíndrica que conecte la incubadora con el espectrofotómetro. 
+-Espacio en donde ubicamos los guantes herméticamente sellados para poder controlar y movilizar la muestra a través del conducto.
+-Un centro giratorio para mover las distintas muestras y que todas pasen por la abertura del conducto.
+-Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura del conducto para que así no varíe la temperatura de la muestra que mantiene dentro de la incubadora.
+-Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura de la caja en donde se ubicara el espectrofotómetro y asi verificar que todo sea constante durante todo el procedimiento. 
+-La incubadora estará conectada a un espectrofotómetro para que este pueda medir a través de la longitud de onda, la radiación que emite la muestra y así la cantidad de soluto que posee. Todo esto para futuras investigaciones. 
+-Una compuerta para poder abrir desde dentro del conducto la incubadora y poder sacar la muestra para poder ser transportada a través del conducto con la ayuda de los guantes hasta que pueda llegar al espectrofotómetro y realice las medidas necesarias. Y viceversa para regresar la muestra a la incubadora.
+-Una caja hermética en donde se encuentre el espectrofotómetro dentro para que siga manteniéndose la ventilación y temperatura constante a la hora de la medición. 
+-Una abertura con unos guantes herméticos para poder manipular el espectrofotómetro desde fuera de la caja sin necesidad de tener un contacto directo con todo el procedimiento. 
+
 
 ## Módulos
 1. ### Módulo de aislamiento:
+En este módulo, estará presente la incubadora que tendrá que ser herméticamente cerrada para que no se filtre ningún tipo de calor y presente una variación de temperatura. Además de la estructura cilíndrica que también deberá estar aislado; esta estructura servirá como conexión directa desde la incubadora hasta el espectrofotómetro. Asimismo, también contaremos con una caja hermética en donde ubicamos al espectrofotómetro para que así se mantenga la temperatura en todo el sistema. 
+
   #### Componentes:
 
 2. ### Módulo de visualización de muestra:
+En este módulo, estará presente el conducto (conexión) que será transparente para que podamos ver el traslado de la muestra correcta. Asimismo, la caja del espectrofotómetro tendrá un lado transparente para que podamos ver las opciones que tenemos en la máquina; además de poder colocar la muestra en posición para que la máquina lo detecte y haga su respectiva medición.
+
   #### Componentes:
 
 3. ### Módulo de manipulación de muestra:
+En este módulo, estarán presentes los guantes herméticos para poder manipular la compuerta de la incubadora, la muestra que pasará a través del conducto y para controlar el espectrofotómetro para sus mediciones. 
+
   #### Componentes:
 
 4. ### Módulo de movilización de la muestra:
