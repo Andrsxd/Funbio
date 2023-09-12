@@ -68,13 +68,37 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Lista de requirimientos
 
+# Propuesta de solución
 ## Estrategias
 
-## Conceptos
+### Conceptos
 
 ## Módulos
+### Módulo de aislamiento:
+  -Componentes
+
+### Módulo de visualización de muestra:
+  -Componentes:
+
+### Módulo de manipulación de muestra:
+  -Componentes:
+
+### Módulo de movilización de la muestra:
+  -Componentes:
+
+## Características 
+### Funcionales:
+
+### No funcionales:
 
 
 
 # Bibliografía
 1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
