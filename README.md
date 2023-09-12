@@ -42,7 +42,8 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 +**Puerta de acceso** : Acceso al interior de la cámara para poner y retirar las muestras.
 
-+**Controlador digital** : Pantalla en la cual se puede ajustar los parámetros antes mencionados como temperatura, humedad y hasta tiempo.</p><p> **Alarma**: Presentes en algunos equipos ya que emite una alerta en caso de un desnivel en algunos de los parámetros que se estableció.
++**Controlador digital** : Pantalla en la cual se puede ajustar los parámetros antes mencionados como temperatura, humedad y hasta tiempo.</p><p> 
++**Alarma**: Presentes en algunos equipos ya que emite una alerta en caso de un desnivel en algunos de los parámetros que se estableció.
 
 
 # Estado del Arte
