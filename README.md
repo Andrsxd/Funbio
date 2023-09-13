@@ -117,35 +117,35 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 
 ## Módulos
-### 1. Módulo de aislamiento
+ 1. Módulo de aislamiento
 
-### 2. Módulo de visualización de muestra
+ 2. Módulo de visualización de muestra
 
-### 3. Módulo de manipulación de muestra
+ 3. Módulo de manipulación de muestra
 
-### 4. Módulo de movilización de la muestra
+ 4. Módulo de movilización de la muestra
 
-### 5. Módulo de ventilación
+ 5. Módulo de ventilación
    
-### 6. Módulo de temperatura
+ 6. Módulo de temperatura
 
-### 7. Módulo de seguridad ante accidentes
+ 7. Módulo de seguridad ante accidentes
 
 ## Componentes
 
-  + Módulo 1: Material que cubra el conducto de movilización (S/ … )
+  + Módulo 1: Material que cubra el conducto de movilización
     
-  + Módulo 2: Equipo espectrofotómetro (S/ … )
+  + Módulo 2: Equipo espectrofotómetro
     
-  + Módulo 3: Guantes herméticos (S/ … )
+  + Módulo 3: Guantes herméticos 
     
-  + Módulo 4: Cilindro giratorio de incubadora (S/ … ), conducto circular que sirva como comunicación entre incubadora-espectrofotómetro (S/ … )
+  + Módulo 4: Cilindro giratorio de incubadora , conducto circular que sirva como comunicación entre incubadora-espectrofotómetro 
     
-  + Módulo 5: Ventilador (S/ … ), motor para el ventilador (S/ … )
+  + Módulo 5: Ventilador, motor para el ventilador 
     
-  + Módulo 6: Sensor de temperatura (S/ … )
+  + Módulo 6: Sensor de temperatura
     
-  + Módulo 7: Sensor de aire para reconocer si hay una fuga (S/ … )
+  + Módulo 7: Sensor de aire para reconocer si hay una fuga 
 
 ## Características 
 
