@@ -7,9 +7,6 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 4. Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)*
 5. Ismael Edmundo Navarro Sanchez *(Coordinador de Prototipado)*
 
-<img width="214" alt="image" src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/e636100f-6820-4dc3-b24c-ae374d5e57a5">
-
-
 La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.
 
 # Problemática 
