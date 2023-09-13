@@ -117,22 +117,19 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 
 ## Módulos
-### 1. Módulo de aislamiento:
-  En este módulo, estará presente la **incubadora** que tendrá que ser herméticamente cerrada para que no se filtre ningún tipo de calor y presente una variación de temperatura. Además de la **estructura cilíndrica**      que también deberá estar aislado; esta estructura servirá como conexión directa desde la incubadora hasta el espectrofotómetro. Asimismo, también contaremos con una **caja hermética** en donde ubicamos al                espectrofotómetro para que así se mantenga la temperatura en todo el sistema. 
+### 1. Módulo de aislamiento
 
-### 2. Módulo de visualización de muestra:
-  En este módulo, estará presente el **conducto** (conexión) que será transparente para que podamos ver el traslado de la muestra correcta. Asimismo, la **caja del espectrofotómetro** tendrá un lado transparente para      que podamos ver las opciones que tenemos en la máquina; además de poder colocar la muestra en posición para que la máquina lo detecte y haga su respectiva medición.
+### 2. Módulo de visualización de muestra
 
-### 3. Módulo de manipulación de muestra:
-  En este módulo, estarán presentes los **guantes herméticos** para poder manipular la compuerta de la incubadora, la muestra que pasará a través del conducto y para controlar el espectrofotómetro para sus mediciones. 
+### 3. Módulo de manipulación de muestra
 
-### 4. Módulo de movilización de la muestra:
+### 4. Módulo de movilización de la muestra
 
-### 5. Módulo de ventilación:
+### 5. Módulo de ventilación
    
-### 6. Módulo de temperatura:
+### 6. Módulo de temperatura
 
-### 7. Módulo de seguridad ante accidentes:
+### 7. Módulo de seguridad ante accidentes
 
 ## Componentes
 
@@ -157,7 +154,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 | Controlar la temperatura del sistema aislado | No ser invasivo (ruido) |
 | Operar de manera manual a través de los guantes | Ser fácil de maniobrar y sencillo |
 | Medir la concentración de la muestra sin necesidad de contaminar la muestra o el exterior | Ser hermético |
-| Evitar que se contamine el personal de laboratorio y el ambiente |  |
+| Evitar que se contamine el personal de laboratorio y el ambiente | Sensación de comodidad al tacto del usuario al momento de manipular la muestra |
 
 # Propuesta de solución
 ## "Un sistema con incubadora y espectrofotómetro que sea capaz de cumplir las funciones de una incubadora (controlar temperatura) y capaz de medir la concentración (cantidad) de las muestras sin necesidad de abrirlo a través de un espectrofotómetro."  
@@ -171,4 +168,3 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 6. https://articulo.mercadolibre.com.pe/MPE-651210394-incubadora-co2-de-laboratorio-de-50-l-_JM#position=1&search_layout=stack&type=item&tracking_id=a18b7bdb-a5b7-43a1-a7f4-4b25998fd8de
 7. https://esp.labbox.com/producto/incubadora-con-agitacion-lbx-s50l/
 8. https://blamis.com.co/incubadora-de-conveccion-forzada-single-display
-9. 
