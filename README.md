@@ -71,13 +71,12 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 | Nombre_de_la_patente (código-de-la-patente) - País - Creador | Descripción | Imagen |
 | ------- | ----------- | ------ |
-| Constant-temperature biochemical incubator for laboratory(CN214400452U)- China - YANG YUAN; BI WEN | Modelo de utilidad describe una incubadora bioquímica de temperatura constante para un laboratorio la cual no necesita ser abierta, ya que la mesa giratoria puede girar el vaso ubicado en la parte posterior hacia el frente para facilitar la observación del usuario, de modo que se evita que la temperatura en el cuerpo de la incubadora bioquímica se vea influenciada y sea normal. | ![]()|
-| Illumination incubator suitable for laboratory(CN104130935A)- China -DING LIQING | La invención describe una incubadora de iluminación adecuada para un laboratorio. Esta comprende un cuerpo de incubadora, una fuente de luz de cultivo, un panel de control y un detector de intensidad de luz, en donde el cuerpo de incubadora comprende un marco metálico y una membrana selladora que se distribuye alrededor del marco metálico para formar un espacio sellado; la fuente de luz de cultivo está instalada en la parte superior del cuerpo de la incubadora y comprende una pluralidad de LED. | ![]() |
-| Laboratory incubator(CN213012902U) - China - TANG PEIYUAN; ZHANG HAIJUN; LI XINXIN; MU YANYAN | El modelo de utilidad proporciona una incubadora de laboratorio, la parte inferior de la incubadora está abierta y provista de un círculo de tira de sujeción de sellado, el marco de la incubadora se compone de placas verticales, una base y una placa de instalación.Las placas se instalan simétricamente en la base, se forman ranuras abiertas en los lados internos de las placas verticales, las varillas de resorte se disponen en las ranuras abiertas. además se forma un círculo de ranura en la base, la tira de sujeción de sellado se sujeta en la ranura, al menos tres ruedas universales están además incrustadas en la parte inferior de la base, de modo que sea conveniente mover todo el dispositivo de cultivo de manera integral, haciendo que las varillas de resorte esten dispuestas para comprimir la placa de montaje, de modo que el dispositivo de cultivo no pueda agitar de forma independiente. El dispositivo tiene los efectos beneficiosos de que la caja de cultivo está separada del marco de cultivo, se puede realizar un cultivo personalizado a través de marcos de cultivo con diferentes estructuras, no es necesario reemplazar la caja de cultivo y se ahorra el costo de los experimentos de cultivo. | ![]() |
+| Constant-temperature biochemical incubator for laboratory(CN214400452U)- China - YANG YUAN; BI WEN | Modelo de utilidad describe una incubadora bioquímica de temperatura constante para un laboratorio la cual no necesita ser abierta, ya que la mesa giratoria puede girar el vaso ubicado en la parte posterior hacia el frente para facilitar la observación del usuario, de modo que se evita que la temperatura en el cuerpo de la incubadora bioquímica se vea influenciada y sea normal. | *Ubicada en la carpeta de imágenes* |
+| Illumination incubator suitable for laboratory(CN104130935A)- China -DING LIQING | La invención describe una incubadora de iluminación adecuada para un laboratorio. Esta comprende un cuerpo de incubadora, una fuente de luz de cultivo, un panel de control y un detector de intensidad de luz, en donde el cuerpo de incubadora comprende un marco metálico y una membrana selladora que se distribuye alrededor del marco metálico para formar un espacio sellado; la fuente de luz de cultivo está instalada en la parte superior del cuerpo de la incubadora y comprende una pluralidad de LED. | *No hay imagen* |
+| Laboratory incubator(CN213012902U) - China - TANG PEIYUAN; ZHANG HAIJUN; LI XINXIN; MU YANYAN | El modelo de utilidad proporciona una incubadora de laboratorio, la parte inferior de la incubadora está abierta y provista de un círculo de tira de sujeción de sellado, el marco de la incubadora se compone de placas verticales, una base y una placa de instalación.Las placas se instalan simétricamente en la base, se forman ranuras abiertas en los lados internos de las placas verticales, las varillas de resorte se disponen en las ranuras abiertas. además se forma un círculo de ranura en la base, la tira de sujeción de sellado se sujeta en la ranura, al menos tres ruedas universales están además incrustadas en la parte inferior de la base, de modo que sea conveniente mover todo el dispositivo de cultivo de manera integral, haciendo que las varillas de resorte esten dispuestas para comprimir la placa de montaje, de modo que el dispositivo de cultivo no pueda agitar de forma independiente. El dispositivo tiene los efectos beneficiosos de que la caja de cultivo está separada del marco de cultivo, se puede realizar un cultivo personalizado a través de marcos de cultivo con diferentes estructuras, no es necesario reemplazar la caja de cultivo y se ahorra el costo de los experimentos de cultivo. | *Ubicada en la carpeta de imágenes* |
 
 # Lista de requirimientos
 
-# Propuesta de solución
 ## Estrategias
 
 -Disminuir la variación de temperatura que puede sufrir la muestra para no alterar su comportamiento dentro de una incubadora.
@@ -119,37 +118,48 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 ## Módulos
 1. ### Módulo de aislamiento:
-En este módulo, estará presente la incubadora que tendrá que ser herméticamente cerrada para que no se filtre ningún tipo de calor y presente una variación de temperatura. Además de la estructura cilíndrica que también deberá estar aislado; esta estructura servirá como conexión directa desde la incubadora hasta el espectrofotómetro. Asimismo, también contaremos con una caja hermética en donde ubicamos al espectrofotómetro para que así se mantenga la temperatura en todo el sistema. 
-
-  #### Componentes:
+  En este módulo, estará presente la **incubadora** que tendrá que ser herméticamente cerrada para que no se filtre ningún tipo de calor y presente una variación de temperatura. Además de la **estructura cilíndrica** que también deberá estar aislado; esta estructura    servirá como conexión directa desde la incubadora hasta el espectrofotómetro. Asimismo, también contaremos con una **caja hermética** en donde ubicamos al espectrofotómetro para que así se mantenga la temperatura en todo el sistema. 
 
 2. ### Módulo de visualización de muestra:
-En este módulo, estará presente el conducto (conexión) que será transparente para que podamos ver el traslado de la muestra correcta. Asimismo, la caja del espectrofotómetro tendrá un lado transparente para que podamos ver las opciones que tenemos en la máquina; además de poder colocar la muestra en posición para que la máquina lo detecte y haga su respectiva medición.
-
-  #### Componentes:
+  En este módulo, estará presente el **conducto** (conexión) que será transparente para que podamos ver el traslado de la muestra correcta. Asimismo, la **caja del espectrofotómetro** tendrá un lado transparente para que podamos ver las opciones que tenemos en la        máquina; además de poder colocar la muestra en posición para que la máquina lo detecte y haga su respectiva medición.
 
 3. ### Módulo de manipulación de muestra:
-En este módulo, estarán presentes los guantes herméticos para poder manipular la compuerta de la incubadora, la muestra que pasará a través del conducto y para controlar el espectrofotómetro para sus mediciones. 
-
-  #### Componentes:
+  En este módulo, estarán presentes los **guantes herméticos** para poder manipular la compuerta de la incubadora, la muestra que pasará a través del conducto y para controlar el espectrofotómetro para sus mediciones. 
 
 4. ### Módulo de movilización de la muestra:
-  #### Componentes:
 
 5. ### Módulo de ventilación:
-   #### Componentes:
    
 6. ### Módulo de temperatura:
-   #### Componentes:
 
 7. ### Módulo de seguridad ante accidentes:
-   #### Componentes:
+
+## Componentes
+
+  + Módulo 1: Material que cubra el conducto de movilización (S/ … )
+    
+  + Módulo 2: Equipo espectrofotómetro (S/ … )
+    
+  + Módulo 3: Guantes herméticos (S/ … )
+    
+  + Módulo 4: Cilindro giratorio de incubadora (S/ … ), conducto circular que sirva como comunicación entre incubadora-espectrofotómetro (S/ … )
+    
+  + Módulo 5: Ventilador (S/ … ), motor para el ventilador (S/ … )
+    
+  + Módulo 6: Sensor de temperatura (S/ … )
+    
+  + Módulo 7: Sensor de aire para reconocer si hay una fuga (S/ … )
 
 ## Características 
-### Funcionales:
 
-### No funcionales:
+| Funcionaes | No funcionales |
+| ------- | ----------- |
+| Controlar la temperatura del sistema aislado | No ser invasivo (ruido) |
+| Operar de manera manual a través de los guantes |  |
+|  |  |
+|  |  |
 
+# Propuesta de solución
 
 
 # Bibliografía
