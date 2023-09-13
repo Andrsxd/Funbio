@@ -117,22 +117,22 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 
 ## Módulos
-1. ### Módulo de aislamiento:
+### 1. Módulo de aislamiento:
   En este módulo, estará presente la **incubadora** que tendrá que ser herméticamente cerrada para que no se filtre ningún tipo de calor y presente una variación de temperatura. Además de la **estructura cilíndrica**      que también deberá estar aislado; esta estructura servirá como conexión directa desde la incubadora hasta el espectrofotómetro. Asimismo, también contaremos con una **caja hermética** en donde ubicamos al                espectrofotómetro para que así se mantenga la temperatura en todo el sistema. 
 
-2. ### Módulo de visualización de muestra:
+### 2. Módulo de visualización de muestra:
   En este módulo, estará presente el **conducto** (conexión) que será transparente para que podamos ver el traslado de la muestra correcta. Asimismo, la **caja del espectrofotómetro** tendrá un lado transparente para      que podamos ver las opciones que tenemos en la máquina; además de poder colocar la muestra en posición para que la máquina lo detecte y haga su respectiva medición.
 
-3. ### Módulo de manipulación de muestra:
+### 3. Módulo de manipulación de muestra:
   En este módulo, estarán presentes los **guantes herméticos** para poder manipular la compuerta de la incubadora, la muestra que pasará a través del conducto y para controlar el espectrofotómetro para sus mediciones. 
 
-4. ### Módulo de movilización de la muestra:
+### 4. Módulo de movilización de la muestra:
 
-5. ### Módulo de ventilación:
+### 5. Módulo de ventilación:
    
-6. ### Módulo de temperatura:
+### 6. Módulo de temperatura:
 
-7. ### Módulo de seguridad ante accidentes:
+### 7. Módulo de seguridad ante accidentes:
 
 ## Componentes
 
