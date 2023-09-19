@@ -149,12 +149,12 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 ## Características 
 
-| Funcionaes | No funcionales |
+| Funcionales | No funcionales |
 | ------- | ----------- |
-| Controlar la temperatura del sistema aislado | No ser invasivo (ruido) |
-| Operar de manera manual a través de los guantes | Ser fácil de maniobrar y sencillo |
-| Medir la concentración de la muestra sin necesidad de contaminar la muestra o el exterior | Ser hermético |
-| Evitar que se contamine el personal de laboratorio y el ambiente | Sensación de comodidad al tacto del usuario al momento de manipular la muestra |
+| Controlar la temperatura del sistema  | No ser invasivo (ruido) |
+| Operar de manera manual y remota | Ser fácil de maniobrar y sencillo |
+| Enviar imágenes de la muestra a tiempo real |  |
+|  |  |
 
 # Propuesta de solución
 ## "Un sistema con incubadora y espectrofotómetro que sea capaz de cumplir las funciones de una incubadora (controlar temperatura) y capaz de medir la concentración (cantidad) de las muestras sin necesidad de abrirlo a través de un espectrofotómetro."  
