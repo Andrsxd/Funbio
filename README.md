@@ -161,7 +161,17 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Caja negra
 
-<img width="370" alt="image" src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/9b735f90-dfe7-4c00-bbec-cbd4c4bb9579">
+<img width="380" alt="image" src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/e1505369-9946-4253-998d-1edc9b00766b">
+
+## Definición de...
+### Entradas
++ Energía:
++ Señales:
++ Muestra:
+
+### Salidas
++ Información recogida:
++ Imágenes:
 
 
 # Bibliografía
