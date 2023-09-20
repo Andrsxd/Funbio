@@ -2,13 +2,19 @@
 Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ingeniería Clínica.
 #### Nosotros somos:
 
-| Integrante | Foto |
-| ----------------- | --------------------|
-| Nikol Corayma Romero Quispe *(Coordinadora de Prototipado e Impresión 3D)*| |
-| Xiomara Antuanett Apaza Hurtado *(Coodinadora de Diseño)* | ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/7553537c-79e8-4a68-bc7e-c47f613177d0){width=50%} |
-| Andrés Nicolas Landeo Cruzado *(Coordinador de Programación)* | ![IMG20230919220642](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/1a06a76b-0e02-4bad-b23e-bab1b64805b1){width=50%}  |
-| Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)* | ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/65301e0f-1457-47ec-ab03-b65204943914){width=50%}  |
-| Ismael Edmundo Navarro Sanchez *(Coordinador de Prototipado)* | ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/6e3105bc-96c3-4737-b093-ac149bfb2bfb){width=50%}  |
+1. Nikol Corayma Romero Quispe *(Coordinadora de Prototipado e Impresión 3D)*
+
+2. Xiomara Antuanett Apaza Hurtado *(Coodinadora de Diseño)*
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/7553537c-79e8-4a68-bc7e-c47f613177d0){width=50%}
+
+3. Andrés Nicolas Landeo Cruzado *(Coordinador de Programación)*
+![IMG20230919220642](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/1a06a76b-0e02-4bad-b23e-bab1b64805b1){width=50%}
+
+4. Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)*
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/65301e0f-1457-47ec-ab03-b65204943914){width=50%}
+
+5. Ismael Edmundo Navarro Sanchez *(Coordinador de Prototipado)*
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/6e3105bc-96c3-4737-b093-ac149bfb2bfb){width=50%} 
 
 La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.
 
