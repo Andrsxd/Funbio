@@ -135,6 +135,10 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
     
   + Módulo 4: Dispositivo con llegada de datos de imágenes
 
+  + Módulo 5: sensor de temperatura
+
+  + Módulo 6: sensor de presión de oxígeno
+
 ## Características 
 
 | Funcionales | No funcionales |
