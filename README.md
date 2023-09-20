@@ -140,19 +140,13 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 ## Componentes
 
-  + Módulo 1: Material que cubra el conducto de movilización
+  + Módulo 1: Cámara de alta resolución
     
-  + Módulo 2: Equipo espectrofotómetro
+  + Módulo 2: Ventilador, motor para el ventilador 
     
-  + Módulo 3: Guantes herméticos 
+  + Módulo 3: Sensor de temperatura
     
-  + Módulo 4: Cilindro giratorio de incubadora , conducto circular que sirva como comunicación entre incubadora-espectrofotómetro 
-    
-  + Módulo 5: Ventilador, motor para el ventilador 
-    
-  + Módulo 6: Sensor de temperatura
-    
-  + Módulo 7: Sensor de aire para reconocer si hay una fuga 
+  + Módulo 4: Sensor de aire para reconocer si hay una fuga 
 
 ## Características 
 
