@@ -3,16 +3,16 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 #### Nosotros somos:
 
 1. Nikol Corayma Romero Quispe *(Coordinadora de Prototipado e Impresión 3D)*
-<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Nikol.jpeg" width='250' height='250'/>
+<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Nikol.jpeg" width='250' height='300'/>
 
 2. Xiomara Antuanett Apaza Hurtado *(Coodinadora de Diseño)*
-<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Xiomara.jpeg" width='250' height='250'/>
+<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Xiomara.jpeg" width='250' height='300'/>
 
 3. Andrés Nicolas Landeo Cruzado *(Coordinador de Programación)*
-<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Andres.jpg" width='250' height='250'/>
+<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Andres.jpg" width='250' height='300'/>
 
 4. Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)*
-<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Aniball.jpeg" width='250' height='250'/>
+<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Aniball.jpeg" width='250' height='300'/>
 
 5. Ismael Edmundo Navarro Sanchez *(Coordinador de Prototipado)*
 <img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Ismael.jpeg" width='250' height='250'/>
