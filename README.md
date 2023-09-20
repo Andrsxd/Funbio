@@ -3,17 +3,17 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 #### Nosotros somos:
 1. Nikol Corayma Romero Quispe *(Coordinadora de Prototipado e Impresión 3D)*
 2. Xiomara Antuanett Apaza Hurtado *(Coodinadora de Diseño)*
-   ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/7553537c-79e8-4a68-bc7e-c47f613177d0)
+   <img src="![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/7553537c-79e8-4a68-bc7e-c47f613177d0)" width="300" height="200">
 
 3. Andrés Nicolas Landeo Cruzado *(Coordinador de Programación)*
-   ![IMG20230919220642](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/1a06a76b-0e02-4bad-b23e-bab1b64805b1)
+   <img src="![IMG20230919220642](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/1a06a76b-0e02-4bad-b23e-bab1b64805b1)" width="300" height="200">
 
 4. Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)*
-   ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/65301e0f-1457-47ec-ab03-b65204943914)
+   <img src="![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/65301e0f-1457-47ec-ab03-b65204943914)" width='300' height='200'>
 
 
 5. Ismael Edmundo Navarro Sanchez *(Coordinador de Prototipado)*
-   ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/6e3105bc-96c3-4737-b093-ac149bfb2bfb)
+   <img src="![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/6e3105bc-96c3-4737-b093-ac149bfb2bfb)" width="300" height="200">
 
 
 La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.
@@ -109,7 +109,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 - Un sistema de monitoreo de temperatura a través de sensores dentro de la incubadora y que estos datos se ingresen a una plataforma en donde podamos observar en tiempo real.
 
--Un regulador de parámetros de temperatura en los cuales podamos controlar y operar su variación de temperatura a distancia.
+- Un regulador de parámetros de temperatura en los cuales podamos controlar y operar su variación de temperatura a distancia.
 
 
 ## Módulos
@@ -175,7 +175,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 - Regular: Regula la energía ingresada para luego distruibuirla en los demás componentes.
 - Sensar: Recibe la temperatura y presión que están presentes en la cámara.
-- Dosificar: Mide la cantidad de CO2 que ingresa a la cámara.
+- Dosificar: Regula la cantidad de CO2 que ingresa a la cámara.
 - Hermetizar: Aisla el cultivo/muestra.
 - Procesar: Procesa la información de los parámetros iniciales y la información recibida por los sensores; y recibe las imágenes de la cámara.
 - Guardar: Almacena la información.
