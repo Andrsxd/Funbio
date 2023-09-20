@@ -172,7 +172,15 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 ### Salidas
 + Información recogida:
 + Imágenes:
+  
 
+# Esquema de funciones
+
+![Esquema de funciones 1](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/2aa57e2b-7321-4c6b-9e13-26fccfa307a0)
+
+# Matriz morfológica
+
+# Tabla de valoración
 
 # Bibliografía
 1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
