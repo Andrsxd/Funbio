@@ -100,29 +100,11 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 - Un case (sistema) de vigilancia de imágenes a tiempo real para ver los cambios cualitativos de las muestras dentro de la incubadora sin necesidad de abrir o si quiera estar cerca.
 
-- Un sistema de monitoreo de temperatura a través de sensores dentro de la incubadora y que estos datos se ingresen a una plataforma en donde podamos observarlo en tiempo real.
+- Una plataforma en donde se subirán todos los datos obtenidos por la imagen en tiempo real de la muestra.
 
-- Una incubadora que sea capaz de cumplir las funciones de una incubadora normal y capaz de medir la concentración (cantidad) de las muestras sin necesidad de abrirlo (contaminado)
+- Un sistema de monitoreo de temperatura a través de sensores dentro de la incubadora y que estos datos se ingresen a una plataforma en donde podamos observar en tiempo real.
 
-- Que exista una conexión directa con la máquina de medida y con la incubadora. Sin necesidad de que se contamine. Para que el personal ya no se exponga a la muestra, por lo tanto evitar futuras contaminaciones al organismo humano.
-
-- Un transportador (conducto) que esté rodeado por una estructura cilíndrica que conecte la incubadora con el espectrofotómetro. 
-
-- Espacio en donde ubicamos los guantes herméticamente sellados para poder controlar y movilizar la muestra a través del conducto.
-
-- Un centro giratorio para mover las distintas muestras y que todas pasen por la abertura del conducto.
-
-- Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura del conducto para que así no varíe la temperatura de la muestra que mantiene dentro de la incubadora.
-
-- Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura de la caja en donde se ubicara el espectrofotómetro y asi verificar que todo sea constante durante todo el procedimiento. 
-
-- La incubadora estará conectada a un espectrofotómetro para que este pueda medir a través de la longitud de onda, la radiación que emite la muestra y así la cantidad de soluto que posee. Todo esto para futuras investigaciones. 
-
--Una compuerta para poder abrir desde dentro del conducto la incubadora y poder sacar la muestra para poder ser transportada a través del conducto con la ayuda de los guantes hasta que pueda llegar al espectrofotómetro y realice las medidas necesarias. Y viceversa para regresar la muestra a la incubadora.
-
--Una caja hermética en donde se encuentre el espectrofotómetro dentro para que siga manteniéndose la ventilación y temperatura constante a la hora de la medición. 
-
--Una abertura con unos guantes herméticos para poder manipular el espectrofotómetro desde fuera de la caja sin necesidad de tener un contacto directo con todo el procedimiento. 
+-Un regulador de parámetros de temperatura en los cuales podamos controlar y operar su variación de temperatura a distancia.
 
 
 ## Módulos
