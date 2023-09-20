@@ -123,13 +123,13 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 ## Componentes
 
-  + Módulo 1: Cámara de alta resolución
+  + Módulo 1: Incubadora
     
-  + Módulo 2: Ventilador, motor para el ventilador 
+  + Módulo 2: Cámara de alta resolución
     
-  + Módulo 3: Sensor de temperatura
+  + Módulo 3: Sistema de Bluetooth o señal para transmisión de datos
     
-  + Módulo 4: Sensor de aire para reconocer si hay una fuga 
+  + Módulo 4: Dispositivo con llegada de datos de imágenes
 
 ## Características 
 
