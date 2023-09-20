@@ -34,6 +34,8 @@ Los parámetros mencionados son llamados comúnmente como propiedades fisicoquí
 
 Las diferentes incubadoras que existen en el mercado pueden variar dependiendo de los distintas características extras que le agreguen, pero fundamentalmente están comprendidas por los siguientes componentes:
 
++**Cámara de alta resolución**:Para poder monitorear los cambios que presente la muestra que está introducida en la incubadora.
+
 + **Cámara de incubación** : En esta parte es donde se colocan las muestras a analizar, aquí se realiza el mantenimiento de la temperatura y húmedad con el fin de lograr el crecimiento requerido de cada muestra.
 
 + **Sistema de calentamiento** : Compuesto por el termostato y control de temperatura que son fundamentales para generar calor y mantener la temperatura para que se logre el crecimiento, esto se logra con la ayuda de resistencias eléctricas.
