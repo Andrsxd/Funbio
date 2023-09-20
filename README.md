@@ -4,8 +4,12 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
 1. Nikol Corayma Romero Quispe *(Coordinadora de Prototipado e Impresión 3D)*
 2. Xiomara Antuanett Apaza Hurtado *(Coodinadora de Diseño)*
 3. Andrés Nicolas Landeo Cruzado *(Coordinador de Programación)*
+   ![IMG20230919220642](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/1a06a76b-0e02-4bad-b23e-bab1b64805b1)
+
 4. Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)*
 5. Ismael Edmundo Navarro Sanchez *(Coordinador de Prototipado)*
+   ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/6e3105bc-96c3-4737-b093-ac149bfb2bfb)
+
 
 La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.
 
@@ -79,35 +83,36 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 ## Estrategias
 
--Disminuir la variación de temperatura que puede sufrir la muestra para no alterar su comportamiento dentro de una incubadora.
+- Visualizar los cambios aparentes dentro de una incubadora a través de una cámara y sensores.
+  
+- Controlar y manipular los parámetros de temperatura a distancia a través de un dispositivo móvil.
 
--Optimizar la visualización de la muestra dentro de una incubadora para evitar sacarla.
+- Disminuir la variación de temperatura que puede sufrir la muestra para no alterar su comportamiento dentro de una incubadora.
 
--No tener contacto directo con las muestras para evitar una posible contaminación al personal de laboratorio.
+- Optimizar la visualización de la muestra dentro de una incubadora para evitar sacarla.
 
--Alertar al personal de laboratorio cuando exista una fuga de aire en la incubadora.
-
--Equipar al personal de laboratorio para evitar que se puedan contaminar con las muestras o patógenos incubados.
-
--Trabajar dentro de una cámara hermética y a la hora del ingreso o salida del personal de laboratorio pasar por una zona de desinfección de cualquier patógeno o sustancia peligrosa.
 
 ### Conceptos
 
--Una incubadora que sea capaz de cumplir las funciones de una incubadora normal y capaz de medir la concentración (cantidad) de las muestras sin necesidad de abrirlo (contaminado)
+- Un case (sistema) de vigilancia de imágenes a tiempo real para ver los cambios cualitativos de las muestras dentro de la incubadora sin necesidad de abrir o si quiera estar cerca.
 
--Que exista una conexión directa con la máquina de medida y con la incubadora. Sin necesidad de que se contamine. Para que el personal ya no se exponga a la muestra, por lo tanto evitar futuras contaminaciones al organismo humano.
+- Un sistema de monitoreo de temperatura a través de sensores dentro de la incubadora y que estos datos se ingresen a una plataforma en donde podamos observarlo en tiempo real.
 
--Un transportador (conducto) que esté rodeado por una estructura cilíndrica que conecte la incubadora con el espectrofotómetro. 
+- Una incubadora que sea capaz de cumplir las funciones de una incubadora normal y capaz de medir la concentración (cantidad) de las muestras sin necesidad de abrirlo (contaminado)
 
--Espacio en donde ubicamos los guantes herméticamente sellados para poder controlar y movilizar la muestra a través del conducto.
+- Que exista una conexión directa con la máquina de medida y con la incubadora. Sin necesidad de que se contamine. Para que el personal ya no se exponga a la muestra, por lo tanto evitar futuras contaminaciones al organismo humano.
 
--Un centro giratorio para mover las distintas muestras y que todas pasen por la abertura del conducto.
+- Un transportador (conducto) que esté rodeado por una estructura cilíndrica que conecte la incubadora con el espectrofotómetro. 
 
--Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura del conducto para que así no varíe la temperatura de la muestra que mantiene dentro de la incubadora.
+- Espacio en donde ubicamos los guantes herméticamente sellados para poder controlar y movilizar la muestra a través del conducto.
 
--Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura de la caja en donde se ubicara el espectrofotómetro y asi verificar que todo sea constante durante todo el procedimiento. 
+- Un centro giratorio para mover las distintas muestras y que todas pasen por la abertura del conducto.
 
--La incubadora estará conectada a un espectrofotómetro para que este pueda medir a través de la longitud de onda, la radiación que emite la muestra y así la cantidad de soluto que posee. Todo esto para futuras investigaciones. 
+- Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura del conducto para que así no varíe la temperatura de la muestra que mantiene dentro de la incubadora.
+
+- Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura de la caja en donde se ubicara el espectrofotómetro y asi verificar que todo sea constante durante todo el procedimiento. 
+
+- La incubadora estará conectada a un espectrofotómetro para que este pueda medir a través de la longitud de onda, la radiación que emite la muestra y así la cantidad de soluto que posee. Todo esto para futuras investigaciones. 
 
 -Una compuerta para poder abrir desde dentro del conducto la incubadora y poder sacar la muestra para poder ser transportada a través del conducto con la ayuda de los guantes hasta que pueda llegar al espectrofotómetro y realice las medidas necesarias. Y viceversa para regresar la muestra a la incubadora.
 
@@ -161,7 +166,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Caja negra
 
-<img width="380" alt="image" src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/e1505369-9946-4253-998d-1edc9b00766b">
+![Caja negra](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/a3f1cd7a-4319-44fe-9b9d-85c0e78e7e36)
 
 ## Definición de...
 ### Entradas
@@ -176,7 +181,16 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Esquema de funciones
 
-![Esquema de funciones 1](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/2aa57e2b-7321-4c6b-9e13-26fccfa307a0)
+![Esquema de funciones](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/2aa57e2b-7321-4c6b-9e13-26fccfa307a0)
+
+- Regular:
+- Sensar:
+- Dosificar:
+- Hermetizar:
+- Procesar:
+- Guardar:
+- Mostrar:
+
 
 # Matriz morfológica
 
