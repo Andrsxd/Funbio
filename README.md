@@ -86,6 +86,8 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 ## Estrategias
 
 - Visualizar los cambios aparentes dentro de una incubadora a través de una cámara y sensores.
+
+- Optimizar la visualización y la interacción de la muestra dentro de una incubadora para evitar sacarla.
   
 - Controlar y manipular los parámetros de temperatura a distancia a través de un dispositivo móvil.
 
