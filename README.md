@@ -159,7 +159,8 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Esquema de funciones
 
-![Esquema de funciones](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/2aa57e2b-7321-4c6b-9e13-26fccfa307a0)
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/8354bec2-ae96-40bc-8cbe-a172812fdfdc)
+
 
 - Regular:
 - Sensar:
