@@ -75,8 +75,8 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 | Equipo | Descripción | Imagen |
 | ------- | ----------- | ------ |
-|Incubadora para microbiología y tejidos vegetales| |Esta incubadora cuenta con características especiales tales como,una temperatura controlada, condiciones de oscuridad, es decir, una baja iluminación continua debido a que los hongos y algunas bacterias se incuban típicamente en la oscuridad, estos necesitan de 8 a más horas en presencia de luz continua; y finalmente una agitación de las muestras al implementar un sistema de control automático. Los parámetros de contratación que presenta este equipo son los siguientes:
-+ dsd| |--|
+|Incubadora para microbiología y tejidos vegetales| |Esta incubadora cuenta con características especiales tales como,una temperatura controlada, condiciones de oscuridad, es decir, una baja iluminación continua debido a que los hongos y algunas bacterias se incuban típicamente en la oscuridad, estos necesitan de 8 a más horas en presencia de luz continua; y finalmente una agitación de las muestras al implementar un sistema de control automático. Los parámetros de contratación que presenta este equipo son los siguientes: <p> + Agitación: 0 - 125 RPM <p> + Temperatura 60°C máximo <p> + Luminosidad  (crecimiento microbiano y tejidos vegetales)
+| |--|
 |--| |--| |--|
 |--| |--| |--|
 |--| |--| |--|
