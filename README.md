@@ -133,10 +133,10 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 | Funcionales | No funcionales |
 | ------- | ----------- |
-| Controlar la temperatura del sistema  | No ser invasivo (ruido) |
-| Operar de manera manual y remota | Ser fácil de maniobrar y sencillo |
-| Enviar imágenes de la muestra a tiempo real |  |
-|  |  |
+| Monitorear en tiempo real la muestra dentro de la incubadora.  | No ser invasivo (ruido) |
+| Monitorear remotamente los cambios que pueda presentar el cultivo | Ser fácil de maniobrar y sencillo de usar (cámara y plataforma).  |
+| Visualizar el comportamiento de la muestra a distancia y tiempo real. | Ser hermético. |
+| Almacenar las imágenes emitidas por la cámara a una nube. | No alterar el comportamiento de la muestra. |
 
 # Propuesta de solución
 ## Un sistema de vigilancia que sea capaz de transmitir en tiempo real y a distancia las imágenes del cultivo dentro de la incubadora, sin afectar al comportamiento de la muestra/cultivo.
