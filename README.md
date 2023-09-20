@@ -71,6 +71,11 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 | Incubadoras de laboratorio de agitación | Se utilizan para el cultivo de células, aireación de células y estudios de solubilidad. Permiten mantener una temperatura constante, lo cual evita la revisión continua de este parámetro. Además, controlan la velocidad de agitación para acelerar el crecimiento celular aumentando la productividad y acortando el tiempo de estimulación. <p>Precio mercado: S/ 10 467.65 (Incubadora con agitación, INC-S: CTSI-050-001 de 50L)</p> | ![](https://www.cromtek.cl/wp-content/uploads/2019/04/shakers-Incubadores-495x400.jpg) |
 | Incubadoras de laboratorio de convección forzada | Posee un rango amplio de temperatura y es ideal para los cultivos de ambientes fríos. A través de un ventilador permite que el aire circule por toda la cámara de forma constante e impide la variación de temperatura no deseada. Precio mercado: S/ 49 138 807.29 (Incubadora de convección forzada Single Display 53-108L) | ![](https://equipar.com.mx/wp-content/uploads/2020/04/MEMMERT-INCUBADORAS.png) |
 
+### -Equipos Openhardware:
+
+| Equipo | Descripción | Imagen |
+| ------- | ----------- | ------ |
+| | | | | |
 
 ### -Patentes de utilidad o invención:
 
