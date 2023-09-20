@@ -2,6 +2,8 @@
 Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ingeniería Clínica.
 #### Nosotros somos:
 
+| Integrante | Foto |
+| ----------------- | --------------------|
 | Nikol Corayma Romero Quispe *(Coordinadora de Prototipado e Impresión 3D)*| |
 | Xiomara Antuanett Apaza Hurtado *(Coodinadora de Diseño)* | ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/7553537c-79e8-4a68-bc7e-c47f613177d0) |
 | Andrés Nicolas Landeo Cruzado *(Coordinador de Programación)* | ![IMG20230919220642](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/1a06a76b-0e02-4bad-b23e-bab1b64805b1) |
