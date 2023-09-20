@@ -1,11 +1,20 @@
 # Fundamentos de Biodiseño - equipo 6
 Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ingeniería Clínica.
 #### Nosotros somos:
+
 1. Nikol Corayma Romero Quispe *(Coordinadora de Prototipado e Impresión 3D)*
+
 2. Xiomara Antuanett Apaza Hurtado *(Coodinadora de Diseño)*
+
+
 3. Andrés Nicolas Landeo Cruzado *(Coordinador de Programación)*
+
+
 4. Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)*
+
+
 5. Ismael Edmundo Navarro Sanchez *(Coordinador de Prototipado)*
+
 
 La temática tratada es sobre _*Open Hardware para la salud y los laboratorios*_.
 
@@ -29,6 +38,8 @@ Los parámetros mencionados son llamados comúnmente como propiedades fisicoquí
 # Función de las partes de la incubadora
 
 Las diferentes incubadoras que existen en el mercado pueden variar dependiendo de los distintas características extras que le agreguen, pero fundamentalmente están comprendidas por los siguientes componentes:
+
++ **Cámara de alta resolución**:Para poder monitorear los cambios que presente la muestra que está introducida en la incubadora.
 
 + **Cámara de incubación** : En esta parte es donde se colocan las muestras a analizar, aquí se realiza el mantenimiento de la temperatura y húmedad con el fin de lograr el crecimiento requerido de cada muestra.
 
@@ -79,90 +90,101 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 ## Estrategias
 
--Disminuir la variación de temperatura que puede sufrir la muestra para no alterar su comportamiento dentro de una incubadora.
+- Visualizar los cambios aparentes dentro de una incubadora a través de una cámara y sensores.
 
--Optimizar la visualización de la muestra dentro de una incubadora para evitar sacarla.
+- Optimizar la visualización y la interacción de la muestra dentro de una incubadora para evitar sacarla.
+  
+- Controlar y manipular los parámetros de temperatura a distancia a través de un dispositivo móvil.
 
--No tener contacto directo con las muestras para evitar una posible contaminación al personal de laboratorio.
+- Disminuir la variación de temperatura que puede sufrir la muestra para no alterar su comportamiento dentro de una incubadora.
 
--Alertar al personal de laboratorio cuando exista una fuga de aire en la incubadora.
+- Optimizar la visualización de la muestra dentro de una incubadora para evitar sacarla.
 
--Equipar al personal de laboratorio para evitar que se puedan contaminar con las muestras o patógenos incubados.
-
--Trabajar dentro de una cámara hermética y a la hora del ingreso o salida del personal de laboratorio pasar por una zona de desinfección de cualquier patógeno o sustancia peligrosa.
 
 ### Conceptos
 
--Una incubadora que sea capaz de cumplir las funciones de una incubadora normal y capaz de medir la concentración (cantidad) de las muestras sin necesidad de abrirlo (contaminado)
+- Un case (sistema) de vigilancia de imágenes a tiempo real para ver los cambios cualitativos de las muestras dentro de la incubadora sin necesidad de abrir o si quiera estar cerca.
 
--Que exista una conexión directa con la máquina de medida y con la incubadora. Sin necesidad de que se contamine. Para que el personal ya no se exponga a la muestra, por lo tanto evitar futuras contaminaciones al organismo humano.
+- Una plataforma en donde se subirán todos los datos obtenidos por la imagen en tiempo real de la muestra.
 
--Un transportador (conducto) que esté rodeado por una estructura cilíndrica que conecte la incubadora con el espectrofotómetro. 
+- Un sistema de monitoreo de temperatura a través de sensores dentro de la incubadora y que estos datos se ingresen a una plataforma en donde podamos observar en tiempo real.
 
--Espacio en donde ubicamos los guantes herméticamente sellados para poder controlar y movilizar la muestra a través del conducto.
-
--Un centro giratorio para mover las distintas muestras y que todas pasen por la abertura del conducto.
-
--Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura del conducto para que así no varíe la temperatura de la muestra que mantiene dentro de la incubadora.
-
--Un sistema de ventilación constante y un sensor de temperatura para controlar la temperatura de la caja en donde se ubicara el espectrofotómetro y asi verificar que todo sea constante durante todo el procedimiento. 
-
--La incubadora estará conectada a un espectrofotómetro para que este pueda medir a través de la longitud de onda, la radiación que emite la muestra y así la cantidad de soluto que posee. Todo esto para futuras investigaciones. 
-
--Una compuerta para poder abrir desde dentro del conducto la incubadora y poder sacar la muestra para poder ser transportada a través del conducto con la ayuda de los guantes hasta que pueda llegar al espectrofotómetro y realice las medidas necesarias. Y viceversa para regresar la muestra a la incubadora.
-
--Una caja hermética en donde se encuentre el espectrofotómetro dentro para que siga manteniéndose la ventilación y temperatura constante a la hora de la medición. 
-
--Una abertura con unos guantes herméticos para poder manipular el espectrofotómetro desde fuera de la caja sin necesidad de tener un contacto directo con todo el procedimiento. 
+- Un regulador de parámetros de temperatura en los cuales podamos controlar y operar su variación de temperatura a distancia.
 
 
 ## Módulos
- 1. Módulo de aislamiento
+ 1. Módulo de aislamiento: En este módulo, estará presente la incubadora que tendrá que ser herméticamente cerrada para que no se filtre ningún tipo de calor y presente una variación de temperatura. 
 
- 2. Módulo de visualización de muestra
+ 2. Módulo de visualización de muestra: En este módulo, estará presente la cámara que captará las imágenes en tiempo real de la muestra dentro de la incubadora.
 
- 3. Módulo de manipulación de muestra
+ 3. Módulo de transmisión de datos: En este módulo, estará presente lo esencial para poder transmitir las imágenes en tiempo real a una plataforma.
 
- 4. Módulo de movilización de la muestra
+ 4. Módulo de visualización de las imágenes: En este módulo, estará presente la plataforma en donde quedarán almacenadas las imágenes para que el usuario pueda verlas en tiempo real.
 
- 5. Módulo de ventilación
-   
- 6. Módulo de temperatura
+ 5. Módulo de sensor de temperatura:En este módulo, estará el sensor de temperatura para monitorear los parámetros dentro de la incubadora.
 
- 7. Módulo de seguridad ante accidentes
+ 6. Módulo de sensor de presión: En este módulo, estará el sensor de presión para controlar los parámetros dentro de la incubadora.
 
 ## Componentes
 
-  + Módulo 1: Material que cubra el conducto de movilización
+  + Módulo 1: Incubadora
     
-  + Módulo 2: Equipo espectrofotómetro
+  + Módulo 2: Cámara de alta resolución
     
-  + Módulo 3: Guantes herméticos 
+  + Módulo 3: Sistema de Bluetooth o señal para transmisión de datos
     
-  + Módulo 4: Cilindro giratorio de incubadora , conducto circular que sirva como comunicación entre incubadora-espectrofotómetro 
-    
-  + Módulo 5: Ventilador, motor para el ventilador 
-    
-  + Módulo 6: Sensor de temperatura
-    
-  + Módulo 7: Sensor de aire para reconocer si hay una fuga 
+  + Módulo 4: Dispositivo con llegada de datos de imágenes
+
+  + Módulo 5: sensor de temperatura
+
+  + Módulo 6: sensor de presión de oxígeno
 
 ## Características 
 
-| Funcionaes | No funcionales |
+| Funcionales | No funcionales |
 | ------- | ----------- |
-| Controlar la temperatura del sistema aislado | No ser invasivo (ruido) |
-| Operar de manera manual a través de los guantes | Ser fácil de maniobrar y sencillo |
-| Medir la concentración de la muestra sin necesidad de contaminar la muestra o el exterior | Ser hermético |
-| Evitar que se contamine el personal de laboratorio y el ambiente | Sensación de comodidad al tacto del usuario al momento de manipular la muestra |
+| Monitorear en tiempo real la muestra dentro de la incubadora.  | No ser invasivo (ruido) |
+| Monitorear remotamente los cambios que pueda presentar el cultivo | Ser fácil de maniobrar y sencillo de usar (cámara y plataforma).  |
+| Visualizar el comportamiento de la muestra a distancia y tiempo real. | Ser hermético. |
+| Almacenar las imágenes emitidas por la cámara a una nube. | No alterar el comportamiento de la muestra. |
 
 # Propuesta de solución
-## "Un sistema con incubadora y espectrofotómetro que sea capaz de cumplir las funciones de una incubadora (controlar temperatura) y capaz de medir la concentración (cantidad) de las muestras sin necesidad de abrirlo a través de un espectrofotómetro."  
+## Un sistema de vigilancia que sea capaz de transmitir en tiempo real y a distancia las imágenes del cultivo dentro de la incubadora, sin afectar al comportamiento de la muestra/cultivo.
+
 
 # Caja negra
 
-<img width="370" alt="image" src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/9b735f90-dfe7-4c00-bbec-cbd4c4bb9579">
+![Caja negra](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/a3f1cd7a-4319-44fe-9b9d-85c0e78e7e36)
 
+## Definición de...
+### Entradas
++ Energía: Fuente de alimentación
++ Señales: Parámetros iniciales y comandos del aplicativo
++ Muestra: Muestra en su etapa previa al cultivo
+
+### Salidas
++ Información recogida: La información procesada
++ Imágenes: Las imágenes transmitidas por la cámara
++ Muestra cultiva: Muestra muy desarrollada
+  
+
+# Esquema de funciones
+
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/8354bec2-ae96-40bc-8cbe-a172812fdfdc)
+
+
+- Regular: Regula la energía ingresada para luego distruibuirla en los demás componentes.
+- Sensar: Recibe la temperatura y presión que están presentes en la cámara.
+- Dosificar: Regula la cantidad de CO2 que ingresa a la cámara.
+- Hermetizar: Aisla el cultivo/muestra.
+- Procesar: Procesa la información de los parámetros iniciales y la información recibida por los sensores; y recibe las imágenes de la cámara.
+- Guardar: Almacena la información.
+- Mostrar: Muestra una alarma cuando la información procesada está fuera de los parámetros iniciales; y las imágen de salida.
+
+
+# Matriz morfológica
+
+# Tabla de valoración
 
 # Bibliografía
 1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
