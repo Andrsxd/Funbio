@@ -158,13 +158,14 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 ## Definición de...
 ### Entradas
-+ Energía:
-+ Señales:
-+ Muestra:
++ Energía: Fuente de alimentación
++ Señales: Parámetros iniciales y comandos del aplicativo
++ Muestra: Muestra en su etapa previa al cultivo
 
 ### Salidas
-+ Información recogida:
-+ Imágenes:
++ Información recogida: La información procesada
++ Imágenes: Las imágenes transmitidas por la cámara
++ Muestra cultiva: Muestra muy desarrollada
   
 
 # Esquema de funciones
@@ -172,13 +173,13 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/8354bec2-ae96-40bc-8cbe-a172812fdfdc)
 
 
-- Regular:
-- Sensar:
-- Dosificar:
-- Hermetizar:
-- Procesar:
-- Guardar:
-- Mostrar:
+- Regular: Regula la energía ingresada para luego distruibuirla en los demás componentes.
+- Sensar: Recibe la temperatura y presión que están presentes en la cámara.
+- Dosificar: Mide la cantidad de CO2 que ingresa a la cámara.
+- Hermetizar: Aisla el cultivo/muestra.
+- Procesar: Procesa la información de los parámetros iniciales y la información recibida por los sensores; y recibe las imágenes de la cámara.
+- Guardar: Almacena la información.
+- Mostrar: Muestra una alarma cuando la información procesada está fuera de los parámetros iniciales; y las imágen de salida.
 
 
 # Matriz morfológica
