@@ -75,7 +75,10 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 | Equipo | Descripción | Imagen |
 | ------- | ----------- | ------ |
-| | | | | |
+|--| |--| |--|
+|--| |--| |--|
+|--| |--| |--|
+|--| |--| |--|
 
 ### -Patentes de utilidad o invención:
 
