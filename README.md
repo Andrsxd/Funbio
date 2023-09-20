@@ -136,7 +136,8 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 |  |  |
 
 # Propuesta de solución
-## "Un sistema con incubadora y espectrofotómetro que sea capaz de cumplir las funciones de una incubadora (controlar temperatura) y capaz de medir la concentración (cantidad) de las muestras sin necesidad de abrirlo a través de un espectrofotómetro."  
+## Un sistema de vigilancia que sea capaz de transmitir en tiempo real y a distancia las imágenes del cultivo dentro de la incubadora, sin afectar al comportamiento de la muestra/cultivo.
+
 
 # Caja negra
 
