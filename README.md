@@ -121,6 +121,10 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
  4. Módulo de visualización de las imágenes: En este módulo, estará presente la plataforma en donde quedarán almacenadas las imágenes para que el usuario pueda verlas en tiempo real.
 
+ 5. Módulo de sensor de temperatura
+
+ 6. Módulo de sensor de presión
+
 ## Componentes
 
   + Módulo 1: Incubadora
