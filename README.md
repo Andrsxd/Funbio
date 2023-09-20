@@ -108,19 +108,13 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 
 ## Módulos
- 1. Módulo de aislamiento
+ 1. Módulo de aislamiento: En este módulo, estará presente la incubadora que tendrá que ser herméticamente cerrada para que no se filtre ningún tipo de calor y presente una variación de temperatura. 
 
- 2. Módulo de visualización de muestra
+ 2. Módulo de visualización de muestra: En este módulo, estará presente la cámara que captará las imágenes en tiempo real de la muestra dentro de la incubadora.
 
- 3. Módulo de manipulación de muestra
+ 3. Módulo de transmisión de datos: En este módulo, estará presente lo esencial para poder transmitir las imágenes en tiempo real a una plataforma.
 
- 4. Módulo de movilización de la muestra
-
- 5. Módulo de ventilación
-   
- 6. Módulo de temperatura
-
- 7. Módulo de seguridad ante accidentes
+ 4. Módulo de visualización de las imágenes: En este módulo, estará presente la plataforma en donde quedarán almacenadas las imágenes para que el usuario pueda verlas en tiempo real.
 
 ## Componentes
 
