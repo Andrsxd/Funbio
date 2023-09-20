@@ -7,6 +7,8 @@ Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ing
    ![IMG20230919220642](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/1a06a76b-0e02-4bad-b23e-bab1b64805b1)
 
 4. Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)*
+   ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/2383b571-bce9-4b83-9169-f0de348e72a1)
+
 5. Ismael Edmundo Navarro Sanchez *(Coordinador de Prototipado)*
    ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/6e3105bc-96c3-4737-b093-ac149bfb2bfb)
 
