@@ -156,7 +156,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Caja negra
 
-![Caja negra](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/a3f1cd7a-4319-44fe-9b9d-85c0e78e7e36)
+![Caja negra](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Caja%20negra.png)
 
 ## Definición de...
 ### Entradas
@@ -172,7 +172,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Esquema de funciones
 
-<https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Esquema%20de%20funciones.png>
+![Esquema de funciones](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Esquema%20de%20funciones.png)
 
 
 - Regular: Regula la energía ingresada para luego distruibuirla en los demás componentes.
