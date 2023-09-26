@@ -172,7 +172,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Esquema de funciones
 
-![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019031/8354bec2-ae96-40bc-8cbe-a172812fdfdc)
+<https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Esquema%20de%20funciones.png>
 
 
 - Regular: Regula la energía ingresada para luego distruibuirla en los demás componentes.
