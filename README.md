@@ -186,7 +186,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Matriz morfológica
 
-![Matriz morfológica](https://github.com/DiegoNM31/Proyecto-Equipo-8)
+![Matriz morfológica](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Matriz%20morfol%C3%B3gica.png)
 
 # Tabla de valoración
 
