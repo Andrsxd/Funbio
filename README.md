@@ -176,12 +176,15 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 
 - Regular: Regula la energía ingresada para luego distruibuirla en los demás componentes.
-- Sensar: Recibe la temperatura y presión que están presentes en la cámara.
+- Sensar: Recibe los parámetros de la temperatura, CO2 y humedad que están presentes en la cámara de la incubadora.
 - Dosificar: Regula la cantidad de CO2 que ingresa a la cámara.
-- Hermetizar: Aisla el cultivo/muestra.
+- Hermetizar: Hospeda al cultivo/muestra.
 - Procesar: Procesa la información de los parámetros iniciales y la información recibida por los sensores; y recibe las imágenes de la cámara.
-- Guardar: Almacena la información.
-- Mostrar: Muestra una alarma cuando la información procesada está fuera de los parámetros iniciales; y las imágen de salida.
+- Grabar y/o fotografiar: Captura tomas de la muestra desde una cámara de video/fotográfica. 
+- Visualizar: Presenta los datos obtenidos de la información monitoreada y de las imágenes de la cámara.
+- Leer: Recepciona los datos enviados del procesador.
+- Registrar: Recopila los datos recepcionados.
+- Almacenar: Guarda los datos obtenidos
 
 
 # Matriz morfológica
