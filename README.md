@@ -188,6 +188,8 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Tabla de valoración
 
+<img width="412" alt="image" src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/0f171eb6-e631-4a75-9f05-ee26fc715e13">
+
 # Bibliografía
 1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
 2. https://www.calameo.com/read/00646313042a0b3f65598
