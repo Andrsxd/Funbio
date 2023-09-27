@@ -195,7 +195,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 <img width="412" alt="image" src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/0f171eb6-e631-4a75-9f05-ee26fc715e13">
 
-# Conclusión
+## Conclusión
 
 ### La propuesta número 5 fue la ganadora por su facilidad de uso, seguridad que proporciona al emplearlo y por no ser invasivo a la hora de su manejo. Ya que los comandos y controles  a utilizar son sencillos de comprender y usar para regular y mantener un control de la muestra a distancia. Además de las paredes en el contorno del cooler de metal hermetizado que permiten el control de temperatura y de co2. Asimismo, es una incubadora muy dinámica a la hora de usar para muestras de laboratorio por el personal médico.
 
@@ -204,6 +204,10 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 # Tabla de valoración técnica
 
 # Tabla de valoración económica
+
+# Proyecto óptimo
+
+## Conclusión
 
 # Bibliografía
 1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
