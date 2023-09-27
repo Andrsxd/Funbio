@@ -151,7 +151,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 | Almacenar las imágenes emitidas por la cámara a una nube. | No alterar el comportamiento de la muestra. |
 
 # Propuesta de solución
-## Un sistema de vigilancia que sea capaz de transmitir en tiempo real y a distancia las imágenes del cultivo dentro de la incubadora, sin afectar al comportamiento de la muestra/cultivo.
+### Un sistema de vigilancia que sea capaz de transmitir en tiempo real y a distancia las imágenes del cultivo dentro de la incubadora, sin afectar al comportamiento de la muestra/cultivo.
 
 
 # Caja negra
@@ -194,6 +194,10 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 # Tabla de valoración
 
 <img width="412" alt="image" src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/0f171eb6-e631-4a75-9f05-ee26fc715e13">
+
+# Conclusión
+
+### La propuesta número 5 fue la ganadora por su facilidad de uso, seguridad que proporciona al emplearlo y por no ser invasivo a la hora de su manejo. Ya que los comandos y controles  a utilizar son sencillos de comprender y usar para regular y mantener un control de la muestra a distancia. Además de las paredes en el contorno del cooler de metal hermetizado que permite el control de temperatura y de co2. Asimismo, es una incubadora muy dinámica a la hora de usar para muestras de laboratorio por el personal médico.
 
 # Bibliografía
 1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
