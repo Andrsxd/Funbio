@@ -200,14 +200,17 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 ### La propuesta número 5 fue la ganadora por su facilidad de uso, seguridad que proporciona al emplearlo y por no ser invasivo a la hora de su manejo. Ya que los comandos y controles  a utilizar son sencillos de comprender y usar para regular y mantener un control de la muestra a distancia. Además de las paredes en el contorno del cooler de metal hermetizado que permiten el control de temperatura y de co2. Asimismo, es una incubadora muy dinámica a la hora de usar para muestras de laboratorio por el personal médico.
 
 # Bocetos del concepto seleccionado
-## Boceto 1
+## Boceto 1 (B)
+
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/bbf3aaa3-f2d3-4283-9d91-e79e65c561a0)
+
+## Boceto 2 (A)
 
 ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/ab85bf35-8758-4bb2-a570-4f14ede9c3c9)
 
-## Boceto 2
+## Boceto 3 (C)
 
-## Boceto 3
-
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/b120f6e1-2068-4327-96b1-b7cd2f01d1c2)
 
 # Tabla de valoración técnica
 
@@ -221,8 +224,8 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/7e3a2330-dba9-43cd-a5a6-acbb820a6ba9)
 
-Eje X: Resultado técnico
-Eje Y: Resultado económico
+<p>Eje X: Resultado técnico </p>
+<p>Eje Y: Resultado económico </p>
 
 ## Conclusión
 ### Cómo proyecto óptimo se eligió el proyecto preliminar número 2 debido a su excelente funcionamiento, su entretenida ergonomía, su óptimo montaje, su importante costo de mantenimiento y el cual tiene un buen precio de los materiales; siendo estos parámetros los más importantes a evaluar en la lista técnica y económica.
