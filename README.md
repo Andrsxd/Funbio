@@ -117,15 +117,14 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 ## Módulos
  1. Módulo de aislamiento: En este módulo, estará presente la incubadora que tendrá que ser herméticamente cerrada para que no se filtre ningún tipo de calor y presente una variación de temperatura. 
 
- 2. Módulo de visualización de muestra: En este módulo, estará presente la cámara que captará las imágenes en tiempo real de la muestra dentro de la incubadora.
+ 2. Módulo de visualización de muestra: En este módulo, estará presente la cámara que captará las imágenes de la muestra en la incubadora.
 
- 3. Módulo de transmisión de datos: En este módulo, estará presente lo esencial para poder transmitir las imágenes en tiempo real a una plataforma.
+ 3. Módulo de transmisión de datos: En este módulo, estará presente el procesador o placa base para poder enviar los parámetros medidos dentro del sistema.
 
- 4. Módulo de visualización de las imágenes: En este módulo, estará presente la plataforma en donde quedarán almacenadas las imágenes para que el usuario pueda verlas en tiempo real.
+ 4. Módulo de visualización de las imágenes: En este módulo, estará presente la plataforma en donde se transmitirán las imágenes para que el usuario pueda verlas a tiempo real.
 
- 5. Módulo de sensor de temperatura:En este módulo, estará el sensor de temperatura para monitorear los parámetros dentro de la incubadora.
+ 5. Módulo de sensor de temperatura y humedad: En este módulo, estará el sensor de temperatura y humedad para monitorear los parámetros dentro de la incubadora.
 
- 6. Módulo de sensor de presión: En este módulo, estará el sensor de presión para controlar los parámetros dentro de la incubadora.
 
 ## Componentes
 
@@ -133,13 +132,11 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
     
   + Módulo 2: Cámara de alta resolución
     
-  + Módulo 3: Sistema de Bluetooth o señal para transmisión de datos
+  + Módulo 3: Sistema de Bluetooth o señal para recepción de datos
     
-  + Módulo 4: Dispositivo con llegada de datos de imágenes
+  + Módulo 4: Plataforma para la transmisión de imágenes
 
-  + Módulo 5: sensor de temperatura
-
-  + Módulo 6: sensor de presión de oxígeno
+  + Módulo 5: sensor de temperatura y humedad
 
 ## Características 
 
@@ -148,7 +145,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 | Monitorear en tiempo real la muestra dentro de la incubadora.  | No ser invasivo (ruido) |
 | Monitorear remotamente los cambios que pueda presentar el cultivo | Ser fácil de maniobrar y sencillo de usar (cámara y plataforma).  |
 | Visualizar el comportamiento de la muestra a distancia y tiempo real. | Ser hermético. |
-| Almacenar las imágenes emitidas por la cámara a una nube. | No alterar el comportamiento de la muestra. |
+| Almacenar las mágenes emitidas por la cámara a una nube. | No alterar el comportamiento de la muestra. |
 
 # Propuesta de solución
 ### Un sistema de vigilancia que sea capaz de transmitir en tiempo real y a distancia las imágenes del cultivo dentro de la incubadora, sin afectar al comportamiento de la muestra/cultivo.
@@ -177,7 +174,6 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 - Regular: Regula la energía ingresada para luego distruibuirla en los demás componentes.
 - Sensar: Recibe los parámetros de la temperatura, CO2 y humedad que están presentes en la cámara de la incubadora.
-- Dosificar: Regula la cantidad de CO2 que ingresa a la cámara.
 - Hermetizar: Hospeda al cultivo/muestra.
 - Procesar: Procesa la información de los parámetros iniciales y la información recibida por los sensores; y recibe las imágenes de la cámara.
 - Grabar y/o fotografiar: Captura tomas de la muestra desde una cámara de video/fotográfica. 
