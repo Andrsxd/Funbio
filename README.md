@@ -185,7 +185,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Matriz morfológica
 
-![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/a8c5e16a-f412-4c29-9ec5-cca60c21748d)
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/a8c5e16a-f412-4c29-9ec5-cca60c21748d) 
 
 # Tabla de valoración
 
@@ -218,7 +218,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Proyecto óptimo
 
-![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/7e3a2330-dba9-43cd-a5a6-acbb820a6ba9)
+<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/7e3a2330-dba9-43cd-a5a6-acbb820a6ba9"  width='250' height='300'>
 
 <p>Eje X: Resultado técnico </p>
 <p>Eje Y: Resultado económico </p>
