@@ -218,7 +218,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Proyecto óptimo
 
-<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/7e3a2330-dba9-43cd-a5a6-acbb820a6ba9"  width='250' height='300'>
+<img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/7e3a2330-dba9-43cd-a5a6-acbb820a6ba9"  width='500' height='600'>
 
 <p>Eje X: Resultado técnico </p>
 <p>Eje Y: Resultado económico </p>
