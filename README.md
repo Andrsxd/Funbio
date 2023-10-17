@@ -173,14 +173,14 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 
 - Regular: Regula la energía ingresada para luego distruibuirla en los demás componentes.
-- Sensar: Recibe los parámetros de la temperatura, CO2 y humedad que están presentes en la cámara de la incubadora.
+- Sensar: Recibe los parámetros de la temperatura y humedad que están presentes en la cámara de la incubadora.
 - Hermetizar: Hospeda al cultivo/muestra.
 - Procesar: Procesa la información de los parámetros iniciales y la información recibida por los sensores; y recibe las imágenes de la cámara.
-- Grabar y/o fotografiar: Captura tomas de la muestra desde una cámara de video/fotográfica. 
+- Grabar: Captura tomas de la muestra desde una cámara de video. 
 - Visualizar: Presenta los datos obtenidos de la información monitoreada y de las imágenes de la cámara.
-- Leer: Recepciona los datos enviados del procesador.
-- Registrar: Recopila los datos recepcionados.
-- Almacenar: Guarda los datos obtenidos
+- Transmitir: A través de un servidor, se recepciona el video captaod a tiempo real.
+- Climatizar: Suministra la temperatura necesaria por medio de fuentes de ventilación y de calor.
+- Alumbrar: Suministra luz al momento de grabar la muestra
 
 
 # Matriz morfológica
@@ -193,7 +193,7 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 ## Conclusión
 
-### La propuesta número 5 fue la ganadora por su facilidad de uso, seguridad que proporciona al emplearlo y por no ser invasivo a la hora de su manejo. Ya que los comandos y controles  a utilizar son sencillos de comprender y usar para regular y mantener un control de la muestra a distancia. Además de las paredes en el contorno del cooler de metal hermetizado que permiten el control de temperatura y de co2. Asimismo, es una incubadora muy dinámica a la hora de usar para muestras de laboratorio por el personal médico.
+### La propuesta número 5 fue la ganadora por su facilidad de uso, seguridad que proporciona al emplearlo y por no ser invasivo a la hora de su manejo. Ya que los comandos y controles  a utilizar son sencillos de comprender y usar para regular y mantener un control de la muestra a distancia. Además de las paredes en el contorno del cooler de metal hermetizado que permiten el control de temperatura y humedad. Asimismo, es una incubadora muy dinámica a la hora de usar para muestras de laboratorio por el personal médico.
 
 # Bocetos del concepto seleccionado
 ## Boceto 1 (B)
