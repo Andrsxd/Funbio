@@ -228,6 +228,9 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 
 # Etapa de modelado 3D
 
+Los diseños 3D de los componentes fueron subirdo en este link para poder visualizarlos de una mejor manera:
+https://sketchfab.com/landcruzado/models
+
 # Etapa de diseño esquemático
 
 ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/306ef85d-f465-42ab-b492-7188bbf6ea25)
