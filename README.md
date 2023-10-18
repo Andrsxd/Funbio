@@ -226,6 +226,15 @@ Las diferentes incubadoras que existen en el mercado pueden variar dependiendo d
 ## Conclusión
 ### Cómo proyecto óptimo se eligió el proyecto preliminar número 2 debido a su excelente funcionamiento, su entretenida ergonomía, su óptimo montaje, su importante costo de mantenimiento y el cual tiene un buen precio de los materiales; siendo estos parámetros los más importantes a evaluar en la lista técnica y económica.
 
+# Etapa de modelado 3D
+
+# Etapa de diseño esquemático
+
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/306ef85d-f465-42ab-b492-7188bbf6ea25)
+
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/394e7bc2-fbf7-425c-b2df-37911ff698bd)
+
+
 # Bibliografía
 1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
 2. https://www.calameo.com/read/00646313042a0b3f65598
