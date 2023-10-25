@@ -253,3 +253,4 @@ link de canva: https://www.canva.com/design/DAFyHyuoqow/ovRBXYjWmnSfDSJ3ZjHk2A/e
 6. https://articulo.mercadolibre.com.pe/MPE-651210394-incubadora-co2-de-laboratorio-de-50-l-_JM#position=1&search_layout=stack&type=item&tracking_id=a18b7bdb-a5b7-43a1-a7f4-4b25998fd8de
 7. https://esp.labbox.com/producto/incubadora-con-agitacion-lbx-s50l/
 8. https://blamis.com.co/incubadora-de-conveccion-forzada-single-display
+9. https://esp32io.com/tutorials/esp32-dht11-lcd
