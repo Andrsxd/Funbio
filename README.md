@@ -240,6 +240,10 @@ En este apartado podría visualizarse mejor en el pdf del esquema ubicado en la 
 ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/394e7bc2-fbf7-425c-b2df-37911ff698bd)
 
 
+# Hito 1
+
+link de canva: https://www.canva.com/design/DAFyHyuoqow/ovRBXYjWmnSfDSJ3ZjHk2A/edit?utm_content=DAFyHyuoqow&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Bibliografía
 1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
 2. https://www.calameo.com/read/00646313042a0b3f65598
