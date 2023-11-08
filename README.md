@@ -253,7 +253,14 @@ link de canva: https://www.canva.com/design/DAFyHyuoqow/ovRBXYjWmnSfDSJ3ZjHk2A/e
 ## Limitaciones:
 + El ID del telegram se debe configurar directamente en el software de programación para poder conectarse al Bot.
 + Según el diseño elegido la agitación no está contemplada, por lo tanto ello limita al equipo a incubar muestras líquidas.
-+ 
+
+<img width="466" alt="image" src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/78a322d9-fe69-4960-bb06-a0947db09da4">
+Comandos del Bot de Telegram (Incubator status)
+
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/7b4b1399-9d38-4b44-9454-306ff802f60a)
+
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/0496c1bf-476e-43ad-a2c0-83cbb4959281)
+
 
 # Bibliografía
 1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
