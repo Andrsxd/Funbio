@@ -2,11 +2,11 @@
 Bienvenidos al repositorio del equipo 6 encargado en investigar la línea de Ingeniería Clínica.
 #### Nosotros somos:
 
-| Nikol Corayma Romero Quispe *(Coordinadora de Prototipado e Impresión 3D)* | Xiomara Antuanett Apaza Hurtado *(Coodinadora de Diseño)* | Andrés Nicolas Landeo Cruzado *(Coordinador General y de Programación)* |
+| Nikol Corayma Romero Quispe *(Coordinadora de Manufactura digital)* | Xiomara Antuanett Apaza Hurtado *(Coodinadora de Diseño)* | Andrés Nicolas Landeo Cruzado *(Coordinador General y de Programación)* |
 | ------------- | -------------- | ---------- |
 | <img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Nikol.jpeg" width='250' height='300'/> | <img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Xiomara.jpeg" width='250' height='300'/> | <img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Andres.jpg" width='250' height='300'/> |
 
-| Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)* | Ismael Edmundo Navarro Sanchez *(Coordinador de Prototipado)* |
+| Aniball Harnaldo Panta Navarro *(Coordinador de Electrónica)* | Ismael Edmundo Navarro Sanchez *(Coordinador de Modelado 3D)* |
 | ------- | -------- |
 | <img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Aniball.jpeg" width='250' height='300'/> | <img src="https://github.com/Andrsxd/Fundamentos-de-Biodisenho/blob/main/Im%C3%A1genes/Ismael.jpeg" width='250' height='250'/> |
 
