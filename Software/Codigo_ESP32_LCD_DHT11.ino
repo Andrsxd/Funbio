@@ -1,37 +1,38 @@
 #include <DHT.h>
 #include <LiquidCrystal_I2C.h>
-#define DHT11_PIN  23 // ESP32 pin GPIO23 connected to DHT11 sensor
+#include <Wire.h>
+#define DHT11_PIN  23 // Definir pin GPIO23 conectado al sensor DHT11
 
-LiquidCrystal_I2C lcd(0x27, 16, 2);  // I2C address 0x27, 16 column and 2 rows
+LiquidCrystal_I2C lcd(0x27, 16, 2);
 DHT dht11(DHT11_PIN, DHT11);
 
 void setup() {
-  dht11.begin(); // initialize the DHT11 sensor
-  lcd.init();         // initialize the lcd
-  lcd.backlight();    // open the backlight
+  dht11.begin(); // iniciar sensor DHT11
+  lcd.init();         
+  lcd.backlight();    // Encender pantalla
 }
 
 void loop() {
-  float humi  = dht11.readHumidity();    // read humidity
-  float tempC = dht11.readTemperature(); // read temperature
+  float humi  = dht11.readHumidity();    // definir varaible para la humedad
+  float tempC = dht11.readTemperature(); // definir variable para temperatura
 
   lcd.clear();
-  // check whether the reading is successful or not
+  // Revisar si las lecturas son efectivas o no
   if (isnan(tempC) || isnan(humi)) {
     lcd.setCursor(0, 0);
-    lcd.print("wiiiiii");
+    lcd.print("Cargando");
   } else {
-    lcd.setCursor(0, 0);  // display position
+    lcd.setCursor(0, 0);
     lcd.print("Temp: ");
-    lcd.print(tempC);     // display the temperature
+    lcd.print(tempC); // Mostrar temperatura 
     lcd.print("°C");
 
-    lcd.setCursor(0, 1);  // display position
+    lcd.setCursor(0, 1); 
     lcd.print("Humi: ");
-    lcd.print(humi);      // display the humidity
+    lcd.print(humi);      // Mostrar temperatura
     lcd.print("%");
   }
 
-  // wait a 2 seconds between readings
-  delay(2000);
+  // Actualizar cada 1 segundo la lectura actual
+  delay(1000);
 }

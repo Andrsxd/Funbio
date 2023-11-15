@@ -1,3 +1,6 @@
+// Andrés Landeo
+// Grupo 6 - FUndamentos de Biodiseño
+// Código adapatado del autor Rui Santos, extraido de la página https://randomnerdtutorials.com/telegram-esp32-cam-photo-arduino/
 #include <Arduino.h>
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
@@ -7,30 +10,29 @@
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "####"; //Type wifi name
-const char* password = "#####"; //Type wifi password
+const char* ssid = "Andrés's Galaxy A22"; // Ingresar nombre de la red
+const char* clave = "977550925"; // Ingresar clave de la red
 
-// Initialize Telegram BOT
-String BOTtoken = "6679509299:AAHSh4ki72J3BXo4V4hhn6VOwkGkqqAnCW8";  // your Bot Token (Get from Botfather)
+// Iniciar bot en telegram
+String BOTtoken = "6679509299:AAHSh4ki72J3BXo4V4hhn6VOwkGkqqAnCW8";  // Escribir token del bot creado en Telegram. 
+// Ver archivo adjunto "Bot token" para conesguir token
 
-// Use @myidbot to find out the chat ID of an individual or a group
-// Also note that you need to click "start" on a bot before it can
-// message you
-String CHAT_ID = "######"; //Use IDBot to digit your chat ID
+// Escribir en el buscador de telegram "IDBot", y consultar la ID propia del usuario. Guardar la ID
+String CHAT_ID = "6270108218"; // Digitar ID guardada
 
-bool sendPhoto = false;
+bool enviarFoto = false;
 
 WiFiClientSecure clientTCP;
 UniversalTelegramBot bot(BOTtoken, clientTCP);
 
 #define FLASH_LED_PIN 4
-bool flashState = LOW;
+bool estadoLED = LOW;
 
-//Checks for new messages every 1 second.
-int botRequestDelay = 1000;
-unsigned long lastTimeBotRan;
+// Revisar cada 1 segundos si hay algun comando escrito
+int Delay = 1000; // Tiempo funciona en milisegundos 
+unsigned long ultimaVezActivo;
 
-//CAMERA_MODEL_AI_THINKER
+// Modelo de cámara: AI Thinker
 #define PWDN_GPIO_NUM     32
 #define RESET_GPIO_NUM    -1
 #define XCLK_GPIO_NUM      0
@@ -105,27 +107,45 @@ void handleNewMessages(int numNewMessages) {
       continue;
     }
     
-    // Print the received message
+    // Mostrar el mensaje recibido
     String text = bot.messages[i].text;
     Serial.println(text);
     
     String from_name = bot.messages[i].from_name;
-    if (text == "/start") {
-      String welcome = "Welcome , " + from_name + "\n";
-      welcome += "Use the following commands to interact with the ESP32-CAM \n";
-      welcome += "/photo : takes a new photo\n";
-      welcome += "/flash : toggles flash LED \n";
-      bot.sendMessage(CHAT_ID, welcome, "");
+    if (text == "/iniciar") {
+      String bienvenido = "Hola , " + from_name + "\n";
+      bienvenido += "Usa los siguientes comando para interactuar con el Incubator BOT \n";
+      bienvenido += "/foto : tomar foto \n";
+      bienvenido += "Para alternar el estado del LED \n";
+      bienvenido += "/flashON : prendido del LED \n";
+      bienvenido += "/flashOFF : apagado del LED \n";
+      bienvenido += "/comandos : mostrar nuevamente la guia de comandos \n";
+      bot.sendMessage(CHAT_ID, bienvenido, "");
     }
-    if (text == "/flash") {
-      flashState = !flashState;
-      digitalWrite(FLASH_LED_PIN, flashState);
+    if (text == "/flashON") {
+      estadoLED = !estadoLED;
+      digitalWrite(FLASH_LED_PIN, estadoLED);
       Serial.println("Change flash LED state");
+      String LED1 = "LED prendido";
+      bot.sendMessage(CHAT_ID, LED1, "");
     }
-    if (text == "/photo") {
-      sendPhoto = true;
+    if (text == "/flashOFF") {
+      estadoLED = !estadoLED;
+      digitalWrite(FLASH_LED_PIN, estadoLED);
+      Serial.println("Change flash LED state");
+      String LED2 = "LED apagado";
+      bot.sendMessage(CHAT_ID, LED2, "");
+    }
+    if (text == "/foto") {
+      enviarFoto = true;
+      String imagen = "Esperando foto...";
+      bot.sendMessage(CHAT_ID, imagen, "");
       Serial.println("New photo request");
     }
+    if (text == "/comandos"){
+      String comando = "Escribir /iniciar";
+      bot.sendMessage(CHAT_ID, comando, "");
+    } 
   }
 }
 
@@ -134,12 +154,12 @@ String sendPhotoTelegram() {
   String getAll = "";
   String getBody = "";
 
-  //Dispose first picture because of bad quality
+  
   camera_fb_t * fb = NULL;
   fb = esp_camera_fb_get();
-  esp_camera_fb_return(fb); // dispose the buffered image
+  esp_camera_fb_return(fb); 
   
-  // Take a new photo
+  // Tomar nueva foto
   fb = NULL;  
   fb = esp_camera_fb_get();  
   if(!fb) {
@@ -186,7 +206,7 @@ String sendPhotoTelegram() {
     
     esp_camera_fb_return(fb);
     
-    int waitTime = 10000;   // timeout 10 seconds
+    int waitTime = 10000;   // timeout 10 segundos
     long startTimer = millis();
     boolean state = false;
     
@@ -218,23 +238,23 @@ String sendPhotoTelegram() {
 
 void setup(){
   WRITE_PERI_REG(RTC_CNTL_BROWN_OUT_REG, 0); 
-  // Init Serial Monitor
+  // Iniciar Serial Monitor
   Serial.begin(115200);
 
-  // Set LED Flash as output
+  // Establecer LED como salida
   pinMode(FLASH_LED_PIN, OUTPUT);
-  digitalWrite(FLASH_LED_PIN, flashState);
+  digitalWrite(FLASH_LED_PIN, estadoLED);
 
-  // Config and init the camera
+  // Configurar e iniciando la cámara
   configInitCamera();
 
-  // Connect to Wi-Fi
+  // Conectandose a wifi
   WiFi.mode(WIFI_STA);
   Serial.println();
   Serial.print("Connecting to ");
   Serial.println(ssid);
-  WiFi.begin(ssid, password);
-  clientTCP.setCACert(TELEGRAM_CERTIFICATE_ROOT); // Add root certificate for api.telegram.org
+  WiFi.begin(ssid, clave);
+  clientTCP.setCACert(TELEGRAM_CERTIFICATE_ROOT);
   while (WiFi.status() != WL_CONNECTED) {
     Serial.print(".");
     delay(500);
@@ -245,18 +265,18 @@ void setup(){
 }
 
 void loop() {
-  if (sendPhoto) {
+  if (enviarFoto) {
     Serial.println("Preparing photo");
     sendPhotoTelegram(); 
-    sendPhoto = false; 
+    enviarFoto = false; 
   }
-  if (millis() > lastTimeBotRan + botRequestDelay)  {
+  if (millis() > ultimaVezActivo + Delay)  {
     int numNewMessages = bot.getUpdates(bot.last_message_received + 1);
     while (numNewMessages) {
       Serial.println("got response");
       handleNewMessages(numNewMessages);
       numNewMessages = bot.getUpdates(bot.last_message_received + 1);
     }
-    lastTimeBotRan = millis();
+    ultimaVezActivo = millis();
   }
 }
