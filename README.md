@@ -261,6 +261,10 @@ Comandos del Bot de Telegram (Incubator status)
 
 ![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/0496c1bf-476e-43ad-a2c0-83cbb4959281)
 
+## Verificación del diseño: Software
+
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/eb2389a3-6673-43e9-bdf6-a8924f9bd7ea)
+
 
 # Bibliografía
 1. https://materialesdelaboratoriohoy.us/metal/incubadora-de-laboratorio/ 
