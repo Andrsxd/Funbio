@@ -235,10 +235,7 @@ https://skfb.ly/oMLnovvhttps://cad.onshape.com/documents/a0641caadb2f1b4ed6f8334
 
 En este apartado podría visualizarse mejor en el pdf del esquema ubicado en la carpeta _Hardware_.
 
-![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/306ef85d-f465-42ab-b492-7188bbf6ea25)
-
-![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/394e7bc2-fbf7-425c-b2df-37911ff698bd)
-
+![image](https://github.com/Andrsxd/Fundamentos-de-Biodisenho/assets/143019238/c03f33a0-5644-4975-b955-9406eca14c07)
 
 # Hito 1
 
