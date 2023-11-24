@@ -1,6 +1,6 @@
 #include <DHT.h>
 #include <LiquidCrystal_I2C.h>
-#include "DHT_U.h"
+#include <DHT_U.h>
 //insertar las librerias que se van a usar
 
 int sensor = 13; //definir pin del sensor DHT11
