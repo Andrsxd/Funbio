@@ -45,12 +45,12 @@ void loop() {
   Serial.print(tempC);
   Serial.println(" °C");
 
-  if (tempC >= 37.5){
+  if (tempC >= 35.5){
     digitalWrite(calefactor, LOW); //modo NC
     digitalWrite(ventilador, HIGH); //modo NO
     Serial.println("Ventilador encendido");
   }
-  if (tempC <= 36.5){
+  if (tempC <= 34.5){
     digitalWrite(ventilador, LOW); //modo NC
     digitalWrite(calefactor, HIGH); //modo NO
     Serial.println("Calefactor encendido");
